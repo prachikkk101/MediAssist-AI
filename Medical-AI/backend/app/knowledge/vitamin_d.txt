@@ -1,0 +1,57 @@
+================================================================================
+Effect of 25-Hydroxyvitamin D3 on Vitamin D and Immunoglobulin G Status, Performance, and Health of Periparturient Cows and Their Calves.
+
+The objectives of this study were to explore the effects of 25-hydroxyvitamin D3 on (1) colostrum yield and compositions, 25-hydroxyvitamin D3, minerals, and health of periparturient cows and (2) 25-hydroxyvitamin D3 and minerals status, growth performance, and health of their calves. Forty multiparous dry cows were assigned to either vitamin D3 group or 25-hydroxyvitamin D3 group. After calving, all their calves received colostrum from their own dams; calves were respectively assigned to one of four treatments: (1) calves from D-VD group were fed vitamin D3; (2) calves from D-VD group were fed 25-hydroxyvitamin D3; (3) calves from D-25D group were fed vitamin D3; (4) calves from D-25D group were fed 25-hydroxyvitamin D3. Feeding 25-hydroxyvitamin D3 significantly increased (p < 0.05) 25-hydroxyvitamin D3, calcium and phosphorus in serum and colostrum, serum antioxidant capacity and immunoglobulin G (IgG) of periparturient cows, and significantly increased (p < 0.05) serum 25-hydroxyvitamin D3, calcium, and phosphorus in calves at birth. Feeding 25-hydroxyvitamin D3 calves improved (p < 0.05) weaning weight, skeletal growth, and average daily gain together with increased antioxidant capacity and IgG. In conclusion, supplementing 25-hydroxyvitamin D3 to periparturient cows and their calves improved colostrum and health of cows and growth and health of their calves.
+
+
+
+================================================================================
+Hypertension among Middle Eastern and North African adults residing in the United States: addressing equity in health research representation using the All of Us Research Program, 2000-2024.
+
+Hypertension (HTN) is a leading modifiable risk factor for cardiovascular disease and mortality; however, its epidemiology among the Middle Eastern and North African (MENA) population residing in the United States (US) remains uncharacterized due to historical racial misclassification and underrepresentation in national datasets. This study aimed to evaluate HTN prevalence, treatment, control, and predictors among MENA adults using data from the All of Us Research Program (2000-2024).
+
+This was a retrospective cohort study of self-identified MENA adults aged ≥18 years with at least one outpatient blood pressure (BP) measurement. HTN was defined by an outpatient diagnosis of essential HTN. BP control was assessed using time in target range among participants with at least two outpatient BP measurements after index date and was defined as BP < 140/90 mm Hg ≥50% of outpatient visits. A stepwise logistic regression model was used to identify significant predictors of HTN.
+
+Among 2,572 MENA adults included in the analysis, 18% (463) had HTN. Among hypertensive participants, 76% (352 of 463) received antihypertensive treatment, and 85% (400 of 463) achieved BP control. Participants aged ≤ 50 years demonstrated significantly higher BP control proportion, compared with those aged >50 years (97 vs. 83%, p = 0.0137). Significant predictors of HTN included diabetes, chronic kidney disease, coronary artery disease, hyperlipidemia, sleep apnea, obesity, male sex, age, anxiety, vitamin D deficiency, and anemia.
+
+Among US MENA adults that participated in the All of Us research Program, HTN prevalence was lower than estimates reported for the general US adult population, while treatment and BP control were higher. Cardiometabolic conditions were the primary drivers of HTN risk, with additional associations observed for vitamin D deficiency and anemia, highlighting the need for improved inclusion of MENA adults in national health research to inform targeted prevention and management strategies.
+
+
+
+================================================================================
+Philippine Clinical Practice Guidelines for Periodic Health Examination: Screening for Musculoskeletal Disorders.
+
+Musculoskeletal diseases (MSDs) are acutely or chronically painful conditions that cause limitations in mobility, dexterity, and participation in society. They are a major contributor to years lived with disability worldwide and their burden is higher in countries with a lower sociodemographic index, like the Philippines. The goal of this clinical practice guideline (CPG) is to provide recommendations to primary care providers on screening for MSDs among asymptomatic, apparently healthy children and adults.
+
+Following the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to CPG development recommended in the Department of Health Manual, the evidence of net benefit or harm of screening for nine musculoskeletal conditions and risk factors was obtained through systematic literature search. Information on costeffectiveness, patient values and preferences, acceptability, feasibility of screening, and its impact on equity were also obtained. The final recommendations were formulated through consensus by a panel of representatives from multiple stakeholder groups.
+
+There were 15 recommendations formulated. Strong recommendations were given to screen for physical inactivity among adults, fall risks and sarcopenia for adults aged ≥60 years old, and osteoporosis among women aged ≥65 years old. However, strong recommendations were made against screening for low vitamin D among infants, children, and adults, and against screening for osteoporosis among men and among women aged <65 years old.
+
+Through a comprehensive evaluation of the best available evidence using the GRADE approach, the Task Force developed 15 recommendations on screening and risk factor assessment for nine MSDs. These recommendations will serve as guidance on screening for MSDs at the primary care level.
+
+
+
+================================================================================
+Vitamin D deficiency and associated factors among cardiology patients in Nouakchott, Mauritania: A cross-sectional study using modified Poisson regression.
+
+To determine the prevalence of vitamin D deficiency and identify associated demographic, lifestyle, and clinical factors among cardiology patients at the National Cardiology Center in Nouakchott, Mauritania.
+
+This cross-sectional study included 170 cardiology patients, with vitamin D status assessed using serum 25-hydroxyvitamin D [25(OH)D] concentrations (deficiency: <20 ng/mL). We used modified Poisson regression with robust (sandwich) variance estimators to directly estimate prevalence ratios (PRs) and 95% confidence intervals. Univariable and multivariable analyses identified associated factors.
+
+Vitamin D deficiency was prevalent in 74.71% of participants. Significant associations were found with higher education (adjusted PR (aPR) = 1.35, 95% CI: 1.02-1.78).). household wealth (aPR = 1.39, 95% CI: 1.00-1.94), non-regular physical activity (aPR = 1.55, 95% CI: 1.03-2.33), and non-active status (aPR = 1.79, 95% CI: 1.18-2.71). The association for Sex-stratified analyses were exploratory and underpowered, showing wide confidence intervals for sex-specific estimates. Conclusions: This study found a high prevalence of vitamin D deficiency associated with socioeconomic and lifestyle factors among cardiology patients in Nouakchott. These associations highlight potential targets for future interventional studies and public health strategies, particularly for females and those with socioeconomic and lifestyle risk factors, to reduce cardiovascular risk in this population.
+
+
+
+================================================================================
+Micronutrient risk with GLP-1 receptor and dual incretin agonists in obesity: Mechanistic pathways, clinical signals, and a monitoring framework.
+
+Incretin-based pharmacotherapies, including GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists, have transformed obesity management by producing substantial weight loss through appetite suppression, reduced energy intake, and gastrointestinal effects. These mechanisms may also modify dietary intake, gastrointestinal physiology, and weight-loss-related metabolic adaptations, raising concern about micronutrient disturbances during long-term treatment.
+
+This narrative clinical review synthesizes evidence on mechanistic pathways, clinical signals, and monitoring considerations related to micronutrient risk during incretin-based obesity pharmacotherapy. Evidence was integrated from dietary studies, observational cohorts, mechanistic investigations, clinical trials, pharmacovigilance reports, and literature on obesity-related micronutrient physiology.
+
+Micronutrient vulnerability appears to arise from the interaction between reduced food intake, lower dietary diversity, gastrointestinal intolerance, delayed gastric emptying, rapid weight loss, and baseline nutritional risk. The most relevant signals involve hematologic, fat-soluble, bone-related, trace element, and electrolyte domains, particularly iron, vitamin B12, vitamin D, calcium, magnesium, zinc, with additional context-dependent concerns involving thiamine, folate, vitamin A, other fat-soluble vitamins and potassium. Most abnormalities reported to date are subclinical or indirect, but clinically meaningful consequences may occur in susceptible individuals, including those with prior bariatric surgery, gastrointestinal disorders, poor baseline diet quality, older age, or prolonged nausea and vomiting.
+
+Micronutrient risk during incretin-based obesity pharmacotherapy is likely multifactorial and patient-specific. Individualized nutritional assessment and targeted laboratory monitoring should be considered for high-risk patients, while prospective studies are needed to define incidence, clinical relevance, and evidence-based monitoring strategies.
+
+
+

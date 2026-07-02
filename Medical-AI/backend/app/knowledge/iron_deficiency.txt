@@ -1,0 +1,55 @@
+================================================================================
+Rare Concurrent Findings With Collagenous Gastroduodenitis in a Pediatric Patient.
+
+Collagenous gastritis is a rare type of gastritis characterized by thickened subepithelial collagen and chronic inflammatory infiltrate. We describe the unique presentation of a previously healthy 13-year-old girl, who presented with severe fatigue and exertional dyspnea. The gastric and duodenal histologic features were consistent with collagenous sprue, collagenous gastritis, and chronic atrophic gastritis. To the best of our knowledge, the simultaneous presentation of these entities is highly uncommon in children, underscoring the importance of understanding its pathogenesis.
+
+
+
+================================================================================
+Philippine Clinical Practice Guidelines for Periodic Health Examination: Screening for Prenatal Disorders.
+
+The Philippine Guidelines on Periodic Health Examination (PHEX) support the Universal Health Care Act by providing guidance on quality, accessible, and affordable screening services for Filipinos. Conditions that develop in the prenatal period are a major cause of neonatal deaths in the Philippines and account for 14% of deaths in children under five.
+
+This guideline aims to provide evidence-based recommendations for screening prenatal disorders among asymptomatic, pregnant Filipino women. It also aims to equip general practitioners, obstetricsgynecology specialists, allied health professionals, patients, policymakers, regulatory agencies, and healthcare institutions with tools and guidance that facilitate informed, evidence-based healthcare decisions for pregnant women.
+
+The development of this CPG followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to CPG development recommended in the Department of Health (DOH) Manual. Recommendations were finalized using the Evidence-to-Decision (EtD) framework. Evidence Review Experts conducted a systematic literature search and critically appraised recent local and international clinical guidelines. When necessary, they conducted de novo systematic reviews. Information on the benefits and harms of screening, cost-effectiveness, patient values and preferences, acceptability, feasibility, and its impact on equity was obtained. A multisectoral consensus panel reviewed the evidence and developed recommendations. A user-friendly web application and engagement with stakeholders for promotion and implementation were among the dissemination strategies. Experts conducted an external review to provide feedback on the methodology and recommendations.
+
+Eleven recommendations for different screening strategies to improve the health outcomes of pregnant women and neonates were developed. This CPG contains recommendations for the screening for maternal thyroid disease, gestational diabetes mellitus, group B Streptococcus infection, fetal aneuploidy, risk for preeclampsia, iron deficiency anemia, and undernutrition, and conducting cervical length measurements, first-trimester ultrasound, and second-trimester ultrasound.
+
+This CPG provides 11 evidence-based recommendations. Applicability in the local setting was carefully considered through the involvement of different stakeholders. The recommendations herein shall hold until new evidence on screening, diagnosing, or managing various risk factors and diseases emerges, or contingencies dictate updating this CPG. This guideline will be updated after three (3) years.
+
+
+
+================================================================================
+Micronutrient risk with GLP-1 receptor and dual incretin agonists in obesity: Mechanistic pathways, clinical signals, and a monitoring framework.
+
+Incretin-based pharmacotherapies, including GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonists, have transformed obesity management by producing substantial weight loss through appetite suppression, reduced energy intake, and gastrointestinal effects. These mechanisms may also modify dietary intake, gastrointestinal physiology, and weight-loss-related metabolic adaptations, raising concern about micronutrient disturbances during long-term treatment.
+
+This narrative clinical review synthesizes evidence on mechanistic pathways, clinical signals, and monitoring considerations related to micronutrient risk during incretin-based obesity pharmacotherapy. Evidence was integrated from dietary studies, observational cohorts, mechanistic investigations, clinical trials, pharmacovigilance reports, and literature on obesity-related micronutrient physiology.
+
+Micronutrient vulnerability appears to arise from the interaction between reduced food intake, lower dietary diversity, gastrointestinal intolerance, delayed gastric emptying, rapid weight loss, and baseline nutritional risk. The most relevant signals involve hematologic, fat-soluble, bone-related, trace element, and electrolyte domains, particularly iron, vitamin B12, vitamin D, calcium, magnesium, zinc, with additional context-dependent concerns involving thiamine, folate, vitamin A, other fat-soluble vitamins and potassium. Most abnormalities reported to date are subclinical or indirect, but clinically meaningful consequences may occur in susceptible individuals, including those with prior bariatric surgery, gastrointestinal disorders, poor baseline diet quality, older age, or prolonged nausea and vomiting.
+
+Micronutrient risk during incretin-based obesity pharmacotherapy is likely multifactorial and patient-specific. Individualized nutritional assessment and targeted laboratory monitoring should be considered for high-risk patients, while prospective studies are needed to define incidence, clinical relevance, and evidence-based monitoring strategies.
+
+
+
+================================================================================
+Extensive bilateral pulmonary embolism revealing iron deficiency-masked JAK2-positive polycythemia vera: A case report.
+
+Polycythemia vera is a BCR-ABL1-negative myeloproliferative neoplasm associated with increased thrombotic risk. Pulmonary embolism as the initial manifestation of iron deficiency-masked polycythemia vera is uncommon and may be difficult to recognize when hemoglobin and hematocrit are not overtly elevated. We report the case of a 67-year-old postmenopausal woman with no identifiable thromboembolic risk factors who presented with acute dyspnea. Computed tomography pulmonary angiography showed extensive bilateral pulmonary embolism involving proximal and distal pulmonary arterial branches, with a right ventricular-to-left ventricular diameter ratio greater than 1, consistent with right ventricular strain. Transthoracic echocardiography confirmed right ventricular dilation and systolic dysfunction, with a tricuspid annular plane systolic excursion of 9 mm. No deep venous thrombosis was identified. The association of unprovoked pulmonary embolism, right ventricular dysfunction, and subtle hematologic abnormalities prompted evaluation for an underlying myeloproliferative neoplasm. Laboratory tests showed an elevated red blood cell count with high-normal hemoglobin (15 g/dL) and hematocrit (45.9%), marked microcytosis with a mean corpuscular volume of 66.5 fL, and low mean corpuscular hemoglobin of 21.7 pg. Further workup revealed low ferritin, low transferrin saturation, and subnormal serum erythropoietin. Molecular testing identified a JAK2 V617F mutation, and bone marrow biopsy showed hypercellular marrow with trilineage proliferation. The patient received therapeutic anticoagulation, low-dose aspirin, and hydroxyurea. This case highlights the role of multimodal imaging in diagnosis and risk stratification, and the need to consider masked polycythemia vera in unprovoked pulmonary embolism with unexplained microcytosis and elevated red blood cell count.
+
+
+
+================================================================================
+The relationship between iron deficiency and thyroid function: findings from a population-based study in Jordan.
+
+This study aimed to examine the association between iron deficiency (ID) and thyroid dysfunction among Jordanian adults.
+
+A cross-sectional analysis was conducted using data from 3,605 participants in a 2017 nationwide survey covering all 12 Jordanian governorates. Sociodemographic, anthropometric, and biochemical data were collected, including serum ferritin, thyroid-stimulating hormone (TSH), free triiodothyronine (FT3), and free thyroxine (FT4). Participants were categorized as having iron deficiency (ID), iron deficiency anemia (IDA), or control group (CG). Kruskal-Wallis and chi-square tests were used, with p < 0.05 considered significant.
+
+Individuals with ID and IDA had significantly lower FT3 and FT4 levels and higher TSH levels compared to CG. The prevalence of hypothyroidism and combined hypothyroidism plus subclinical hypothyroidism was higher in the IDA group (p = 0.0011 and p = 0.0126, respectively). No significant associations were observed for hyperthyroidism or subclinical hyperthyroidism.
+
+Iron deficiency, particularly IDA, was associated with an increased prevalence of hypothyroidism among Jordanian adults. These findings highlight the importance of thyroid function screening in individuals with low iron status and underline the need for longitudinal studies to clarify causal pathways.
+
+
+

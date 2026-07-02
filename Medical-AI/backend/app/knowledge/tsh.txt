@@ -1,0 +1,67 @@
+================================================================================
+Frequency and Impact of Thyroid Hormone Abnormalities in COVID-19: An Observational Study at the Peak of the Pandemic.
+
+COVID-19, caused by SARS-CoV-2, affects multiple organ systems, including the thyroid gland. Non-Thyroidal Illness Syndrome (NTIS) is frequently observed in severe systemic disease. NTIS-like thyroid hormone alterations have previously been reported in COVID-19. However, the relationship between these changes and disease outcomes remains unclear.
+
+We aimed to evaluate thyroid function and vitamin D concentrations in hospitalized COVID-19 patients, and to analyze the association between hormonal measurements and patient characteristics with COVID-19 mortality.
+
+We conducted a retrospective database search of 846 adult patients hospitalized in a dedicated COVID-19 hospital at the peak of the pandemic. Based on the availability of serum levels of TSH, FT3, FT4, and vitamin D, 137 patients were included in the analysis. Descriptive statistics, comparative analyses, and logistic regression were used to evaluate the associations of laboratory measurements, sex, and age with COVID-19 mortality.
+
+Decreased thyroid hormone and vitamin D concentrations were more common than in the general population, although none differed between deceased and COVID-19 survivors. Among the cohort, 63.5% had decreased TSH, 21.2% had decreased FT3, 24.1% had decreased FT4, and 75.9% presented with vitamin D deficiency. Comparative analyses showed no significant differences in TSH (P = .82), FT3 (P = .40), FT4 (P = .81), or vitamin D (P = .78) levels between deceased and surviving patients. Deceased patients were older than survivors (median [IQR]: 75.5 [71.0-80.8] vs 71.0 [61.0-77.0] years; P = .002), with age emerging as the only predictor of mortality (OR = 1.07, 95%CI: 1.02-1.11; P = .001; all other variables P > .33).
+
+NTIS-like thyroid hormone alterations and vitamin D deficiency are highly prevalent among hospitalized COVID-19 patients but do not predict in-hospital mortality. Age remains the major risk factor for death in this population. Our findings confirm that COVID-19 frequently affects the endocrine system and highlight the need for further research on long-term thyroid outcomes.
+
+Thyroid Hormone and Vitamin D Changes in COVID-19 and Their Impact on Disease Mortality COVID-19 most often affects the lungs, but it can also impact other organs, including the thyroid gland. In severe illness, patients often develop changes in thyroid hormone levels, a condition called Non-Thyroidal Illness Syndrome (NTIS). Hormonal changes have been observed in COVID-19 before, but their impact on disease severity is not well understood. In our study, we analyzed data from a hospital that treated only COVID-19 patients at the peak of the pandemic. We reviewed 846 patient records for measurements of thyroid hormones (TSH, FT3, FT4) and vitamin D at the time of admission. After applying inclusion and exclusion criteria, a total of 137 patients were included in the analysis. We compared their hormone levels, sex, and age against normal ranges and examined their relationship with COVID-19 outcomes. We have found that thyroid hormone changes and vitamin D deficiency were more common than in general population. About 64% of patients had low TSH, 21% had low FT3, 24% had low FT4, and 76% had low vitamin D levels. However, these hormone levels did not differ between patients who survived and those who died in the hospital. The main factor predicting death was age: older patients were more likely to die from COVID-19. Overall, our study highlights that COVID-19 frequently affects the endocrine system. Thyroid hormones and vitamin D levels are often decreased in COVID-19, even in patients without prior thyroid problems. However, these changes do not appear to influence disease outcome, with age remaining the strongest predictor of mortality. Future research should explore whether these changes persist after recovery and if they contribute to long-term complications. Understanding these effects could help improve care for patients recovering from COVID-19.
+
+
+
+================================================================================
+The relationship between iron deficiency and thyroid function: findings from a population-based study in Jordan.
+
+This study aimed to examine the association between iron deficiency (ID) and thyroid dysfunction among Jordanian adults.
+
+A cross-sectional analysis was conducted using data from 3,605 participants in a 2017 nationwide survey covering all 12 Jordanian governorates. Sociodemographic, anthropometric, and biochemical data were collected, including serum ferritin, thyroid-stimulating hormone (TSH), free triiodothyronine (FT3), and free thyroxine (FT4). Participants were categorized as having iron deficiency (ID), iron deficiency anemia (IDA), or control group (CG). Kruskal-Wallis and chi-square tests were used, with p < 0.05 considered significant.
+
+Individuals with ID and IDA had significantly lower FT3 and FT4 levels and higher TSH levels compared to CG. The prevalence of hypothyroidism and combined hypothyroidism plus subclinical hypothyroidism was higher in the IDA group (p = 0.0011 and p = 0.0126, respectively). No significant associations were observed for hyperthyroidism or subclinical hyperthyroidism.
+
+Iron deficiency, particularly IDA, was associated with an increased prevalence of hypothyroidism among Jordanian adults. These findings highlight the importance of thyroid function screening in individuals with low iron status and underline the need for longitudinal studies to clarify causal pathways.
+
+
+
+================================================================================
+The influence of stress and cortisol on thyroid dysfunction.
+
+Chronic stress and sustained activation of the hypothalamic-pituitary-adrenal (HPA) axis result in elevated cortisol secretion, which caninterfere with regulation of the hypothalamic-pituitary-thyroid (HPT) axis and affect thyroid hormone metabolism and immune-mediatedmechanisms. The aim of this review is to present current evidence on the influence of stress and cortisol on thyroid function, including their effects onthe HPT axis, peripheral thyroid hormone metabolism, and autoimmunity, and to discuss potential clinical implications. A comprehensive literature search was conducted covering the last decade's clinical, population-based, and experimental studies addressingthe associations between psychological stress, cortisol levels, thyroid axis dysregulation, deiodinase activity, and autoimmune thyroiddisease. Mechanistic pathways and therapeutic perspectives are summarized. Evidence indicates that cortisol suppresses TRH and TSH secretion and disrupts the circadian rhythm of TSH secretion, while also influencingthyroid hormone transport proteins and deiodinase activity (↓ D1/↓ D2, ↑ D3), leading to reduced T3 and increased rT3. Thesemechanisms contribute to subclinical hypothyroidism and the non-thyroidal illness syndrome (NTIS) phenotype. Chronic stress alsodisturbs immune homeostasis (Treg/Th17 imbalance, elevated IL-6, TNF-α), increasing susceptibility to autoimmune thyroid diseases suchas Hashimoto's thyroiditis and Graves' disease. Emerging data suggest that stress-reduction interventions, optimization of micronutrientstatus (selenium, vitamin D, zinc), and modulation of the HPA axis may complement standard thyroid therapy. Stress and cortisol are significant but often underrecognized moderators of thyroid regulation through endocrine, metabolic, and immunologicalpathways. Incorporating assessment of chronic stress and HPA-axis activity into the diagnostic workup of thyroid disordersmay enhance clinical evaluation, and stress-targeted adjunctive interventions may improve management, particularly in patients withautoimmune thyroid disease.
+
+
+
+================================================================================
+Effect of ashwagandha ( Withania somnifera ) on endocrine and reproductive traits in Awassi sheep.
+
+Although ashwagandha, or Withania somnifera, is used as a broad-spectrum treatment for a wide range of illnesses, including reproductive issues, and to improve fertility, it is also considered a potent adaptogen and anti-stressor that may assist in improving physical performance.
+
+This study aimed to evaluate the effect of two doses of ashwagandha on physiological and reproductive parameters in Awassi sheep in Iraq.
+
+Thirty Awassi ewes were randomly assigned to three groups (10 each) for 60 days: a control (placebo), 300 mg/day ashwagandha, and 600 mg/day ashwagandha. Physiological (hepcidin, growth hormone, insulin, TSH, T3, T4) and reproductive (estrogen, progesterone, FSH, LH) parameters were measured on days 0, 30, and 60, and body weights were recorded weekly.
+
+The experimental data demonstrated that both experimental groups showed increased growth hormone levels along with decreased hepcidin and insulin levels, and thyroid hormone levels (T3 and T4) increased significantly (p < 0.05) in both experimental groups after ashwagandha administration compared to the control group. Both experimental groups demonstrated significantly elevated estrogen, progesterone, and FSH levels compared with the control group. This study demonstrates that ashwagandha supplementation improves the physiological and reproductive functions of Awassi sheep, which can help boost their performance.
+
+Ashwagandha supplementation enhanced the metabolic and reproductive performance of Awassi sheep. It lowered insulin and hepcidin levels, increased growth hormone and thyroid hormone levels, and elevated estrogen, progesterone, and FSH levels, indicating improved metabolism and reproductive function.
+
+
+
+================================================================================
+Assessing the effects of linseed consumption on thyroid hormones and hepatic toxicity in rats drenched with Cordarone overdose.
+
+Cordarone, a benzofuranic-derivative iodine-rich medication primarily used for tachyarrhythmias, frequently induces alterations in the peripheral metabolism of thyroid hormones, predominantly by inhibiting 5'-deiodinase activity, resulting in elevated serum thyroxine and reverse triiodothyronine (T3) levels, alongside diminished serum T3 concentrations. Overt thyroid dysfunction, which manifests as either Cordarone-induced thyrotoxicosis. Linseed oil or flaxseed oil is a type of oil that comes from seeds. It is one of the oldest oils on the market. Solvent-processed flaxseed oil has been used as a drying oil in painting and varnishing for hundreds of years. Raw oil is utilized as an astringent in fungicidal lotion. It also acts as an insecticide and has some insect-repelling effects.
+
+The study sought to show the therapeutic effects of linseed oil on biochemical parameters in rats against the toxic effects of Cordarone.
+
+In this study, we used twenty-four adult male rats and splited into three groups: control group: drenched standard nutrition only. Cordarone group: drenched Cordarone (100 mg/kg/day) orally by gavage. Cordarone + Linseed oil group: rats were drenched with Cordarone (100 mg/kg/day) and linseed oil (3 ml/kg/day) for a month. At the end of this experiment, the rats were scarified and blood samples were taken from the animals for biochemical parameters (ALT, AST, troponin, TSH, T3, and T4).
+
+The data showed the positive effect of linseed in improving the thyroid gland, heart, and liver against the toxic effect of Cordarone.
+
+Linseed had a positive effect against the toxic effects of Cordarone by enhancing hematology parameters. These findings proved benefit of linseed.
+
+
+

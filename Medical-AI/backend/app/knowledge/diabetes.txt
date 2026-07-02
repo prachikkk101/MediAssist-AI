@@ -1,0 +1,57 @@
+================================================================================
+From pathophysiology to therapy: molecular mechanisms of stem cell and extracellular vesicle-mediated repair in diabetic peripheral neuropathy.
+
+Diabetic peripheral neuropathy (DPN) is a prevalent diabetic complication with limited effective treatments. While stem cell-based therapies show promise, their efficacy is attributed to paracrine activity, particularly extracellular vesicles (EVs). This review examines the molecular pathology of DPN, focusing on metabolic dysregulation, neuroinflammation, and neurovascular dysfunction. The mechanisms by which stem cells and their EVs counteract these processes are elucidated, including activating antioxidant pathways (NRF2/HO-1), reprogramming immune signaling (M1 to M2 polarization), and promoting neurovascular regeneration (PI3K/Akt, MAPK). Innovations in EV engineering aimed at enhancing their molecular cargo and targeting specificity are critically assessed. Furthermore, the translational challenges for these EV-based therapies are addressed, focusing on the need for standardized production to ensure molecular consistency. It is concluded that EV-based cell-free therapy represents a novel regenerative strategy for DPN, operating through multi-targeted molecular mechanisms.
+
+
+
+================================================================================
+Prognostic Value of Interocular Flicker ERG Asymmetry in Acute Postoperative Endophthalmitis After Intraocular Surgery: A Pilot Study.
+
+Postoperative endophthalmitis remains a vision-threatening complication despite advances in treatment. Current prognostic markers (Gram stain and initial visual acuity) have limited predictive values for real-time retinal neuronal function assessment and visual recovery. The purpose of this pilot study was to explore whether photopic electroretinograms might be used to forecast the endophthalmitis prognosis following intravitreal injection or phacoemulsification intraocular lens implantation.
+
+This prospective observational study included 11 consecutive patients with acute postoperative endophthalmitis following phacoemulsification with IOL implantation (3 eyes) or intravitreal injections (8 eyes). ERGs were recorded using a portable RETeval™ system under nonmydriatic conditions. R Core Team (2019) was used to assess the preoperative electroretinogram outcomes, duration until the onset of endophthalmitis, procedure types of original surgeries, and pre- and postoperative best-corrected visual acuity.
+
+Mean patient age was 79.23 years (range 62-88). A significant correlation was found between interocular photopic flicker latency difference and BCVA improvement (p = 0.04, < 0.05). Patients with ≤ 8 ms latency difference showed significantly better visual recovery (≥ 2-line gain). No significant correlations were found with diabetes status, original surgical procedure types, or time to symptom onset.
+
+In this hypothesis-generating pilot study of acute postoperative endophthalmitis, a smaller interocular flicker ERG latency difference at presentation is associated with better visual recovery. These preliminary findings suggest that this rapid, noninvasive functional test may have potential as a prognostic biomarker and warrants further validation in larger cohorts, complementing existing clinical and microbiological parameters in the management of this sight-threatening infection.
+
+
+
+================================================================================
+Exosome-Biomaterial Platforms for Diabetic Skin Infections: Microenvironment Remodeling, Responsive Delivery, and Clinical Translation.
+
+Diabetic skin infections, particularly diabetic foot ulcers (DFU), remain difficult to treat because infection, biofilm formation, persistent inflammation, oxidative stress, hypoxia, impaired angiogenesis, and extracellular matrix (ECM) disruption coexist within a hostile wound microenvironment. Conventional treatments, including antibiotics, surgical debridement, negative pressure wound therapy, and standard dressings, are indispensable but often fail to simultaneously suppress infection and restore regenerative healing. Exosomes have emerged as promising acellular mediators for diabetic wound repair because they can coordinate immune regulation, angiogenesis, matrix remodeling, and re-epithelialization. However, direct exosome administration is limited by rapid clearance, poor local retention, dilution by wound exudate, dose inconsistency, and manufacturing heterogeneity. Biomaterial platforms, including hydrogels, microneedle patches, membranes, cryogels, porous scaffolds, and responsive nanocomposite systems, provide a rational strategy to protect exosome bioactivity, prolong local retention, and enable sustained or stimulus-responsive release. More importantly, these materials can be engineered to actively regulate infection-associated pathological barriers, including biofilm persistence, excessive oxidative stress, hypoxia, and impaired tissue reconstruction. This review summarizes recent advances in exosome-biomaterial systems for diabetic skin infections, with emphasis on delivery design, microenvironment-responsive release, anti-infective and regenerative mechanisms, platform comparison, and clinical translation. We further discuss key translational challenges, including exosome source selection, dose standardization, potency assays, scalable manufacturing, storage stability, biosafety, regulatory classification, and clinical trial design. Current evidence suggests that exosome-biomaterial systems can improve wound closure, vascularization, collagen deposition, re-epithelialization, and infection control in preclinical models. Nevertheless, high-quality clinical evidence remains limited. Future studies should prioritize clinically relevant infected diabetic wound models, standardized quality-control frameworks, and simplified delivery systems compatible with routine wound care.
+
+
+
+================================================================================
+Integrated synthesis and computational assessment of sulfanilamide-triazolo-oxadiazole triads as effective ALP and amylase inhibitors.
+
+Alkaline phosphatase (ALP) and α-amylase are clinically relevant biomarkers for metabolic disorders, including diabetes and hepatobiliary dysfunction. This study reports the synthesis of sulfanilamide-linked triazolo-oxadiazole derivatives (7a-j) using click chemistry and their evaluation as dual enzyme inhibitors. Spectroscopic analysis were employed to validate structure of the synthesized compounds. Biological evaluation revealed that all compounds exhibited moderate inhibition against both enzymes. Compound 7e demonstrated the lowest IC50 against α-amylase at 48.11 µM, while compound 7i showed the lowest IC50 against ALP at 41.99 µM. In silico methods, were employed to guide compounds prioritization and interpret experimental outcomes. Docking scores ranged from - 8.4 to - 9.4 kcal/mol for α-amylase and - 8.3 to - 9.0 kcal/mol for ALP, consistent with experimental trends. DFT analysis revealed that smaller HOMO-LUMO gaps (3.92-4.55 eV) were correlated with enhanced chemical reactivity. ADMET profiling revealed that high TPSA values (163.47-172.70 Å²), predict low GI absorption, an inherent trade-off between polarity required for binding and membrane permeability, hence best suited for parenteral delivery or as lead scaffolds for optimization and limit oral bioavailability. No PAINS or Brenk alerts were detected, all compounds satisfied Lipinski's rule of five, and they lacked oral drug-likeness due to poor permeability. They are therefore best suited for parenteral delivery or as lead scaffolds for further optimization.
+
+The online version contains supplementary material available at 10.1007/s40203-026-00688-3.
+
+
+
+================================================================================
+Association of Tirzepatide versus Glucagon-Like Peptide-1 Receptor Agonists with Incident Glaucoma in Patients with Type 2 Diabetes: A Retrospective Cohort Study.
+
+To assess the comparative risk of glaucoma among patients with type 2 diabetes mellitus (T2DM) treated with tirzepatide versus glucagon-like peptide-1 receptor agonists (GLP-1RAs).
+
+A retrospective cohort study using data from a large, multinational, deidentified database.
+
+Adults aged ≥60 years with T2DM who were newly prescribed tirzepatide or GLP-1RAs during 2022-2024 across 21 countries were included. Individuals with a prior diagnosis of glaucoma, previous use of glaucoma medications, or cross-use of tirzepatide and GLP-1RAs during follow-up were excluded.
+
+Based on medication exposure, participants were divided into the tirzepatide and GLP-1RA groups. The 2 groups were balanced using 1:1 propensity score matching based on age, sex, race, smoking history, glycated hemoglobin, body mass index, prior use of glucose-lowering medications, corticosteroids, and comorbidities.
+
+Incident primary open-angle glaucoma (POAG) across a 2-year follow-up period.
+
+A total of 51 540 participants were included in the final analysis. Tirzepatide, compared to GLP-1RAs, was associated with a lower risk of POAG after 2 years (hazard ratio, 0.65; 95% confidence interval, 0.44-0.96) of follow-up. This association remained consistent across multiple sensitivity analyses, including the exclusion of individuals with early POAG events after the index date, restricting the cohort to patients with ≥1 subsequent prescription during follow-up, an intention-to-treat design, and limiting the analysis exclusively to individuals with an ophthalmology visit.
+
+Tirzepatide was associated with a lower risk of POAG compared to GLP-1RAs; however, further studies are needed to confirm its clinical significance given the limitations of the current study.
+
+The author has no/the authors have no proprietary or commercial interest in any materials discussed in this article.
+
+
+

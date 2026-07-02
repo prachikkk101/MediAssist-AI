@@ -1,0 +1,59 @@
+================================================================================
+Organ preservation in rectal cancer following clinical complete response after short-course radiotherapy-based total neoadjuvant therapy.
+
+Organ preservation after total neoadjuvant therapy (TNT) is feasible in patients with locally advanced rectal cancer (LARC) who achieve a clinical complete response (cCR). However, most watch-and-wait (WW) evidence derives from long-course chemoradiotherapy (LCCRT), with limited data regarding short-course radiotherapy (SCRT)-based TNT. We evaluated response-adapted organ preservation following SCRT-based TNT in a public, resource-limited healthcare setting.
+
+This retrospective cohort included consecutive patients with stage II-III LARC (cT3-T4 and/or N+) with palpable tumors ≤8 cm from the anal verge treated between 2020 and 2023. All patients received SCRT (25 Gy in five fractions) followed by consolidation chemotherapy (FOLFOX or CAPOX). Tumor response was assessed 8-12 weeks after TNT using digital rectal examination, pelvic MRI, flexible sigmoidoscopy and CEA levels. Patients achieving a cCR were managed with a structured WW protocol; others underwent total mesorectal excision (TME). Time-to-event outcomes were estimated descriptively.
+
+Among 51 evaluable patients, 19 (37.3%) achieved cCR and 18 (35.3%) were managed with WW. After a median follow-up of 43.2 months (IQR 34.1-51.5), 3 WW patients (16.7%) developed local regrowth, all successfully salvaged with R0 resection. The estimated 24-month local regrowth-free survival was 82.2% (95% CI 65.8-100%). One WW patient died from systemic progression after salvage surgery. In the surgical group, 4 patients (12.1%) achieved a pathological complete response (pCR). Overall, 13 of 18 WW patients (72.2%) maintained sustained cCR without any oncologic event during follow-up.
+
+Hypofractionated SCRT integrated into a TNT strategy enabled response-adapted organ preservation with acceptable local regrowth-free survival in selected patients with LARC. This strategy was deliverable within a public healthcare system and achieved acceptable mid-term oncologic control. Prospective validation with longer follow-up is warranted.
+
+
+
+================================================================================
+Transnasal Humidified Rapid-Insufflation Ventilatory Exchange versus Oropharyngeal Airway-Assisted Face-Mask Ventilation for Gastric Insufflation During Induction of General Anesthesia in Patients at High Risk for Obstructive Sleep Apnea.
+
+Obstructive sleep apnea (OSA) is an independent risk factor for gastric insufflation during the induction of general anesthesia. We aimed to compare the impact of oropharyngeal airway-assisted face-mask ventilation and transnasal humidified rapid-insufflation ventilatory exchange (THRIVE) on gastric insufflation in patients with high-risk OSA.
+
+Patients at high risk for OSA scheduled for elective major abdominal surgery under general anesthesia were randomized 1:1 to either Group T (THRIVE throughout induction) or Group M (face-mask preoxygenation followed by oropharyngeal airway-assisted pressure-controlled ventilation). Gastric antrum ultrasonography was performed at baseline (T1), after preoxygenation (T2), and post-intubation (T4) to assess changes of antral cross-sectional area (CSAa). Arterial blood gases were analyzed at T1, T2, after induction during ventilation/apnea (T3), and T4. Adverse events and patient comfort were recorded. The primary outcome was the incidence of gastric insufflation at T4. Secondary outcomes included CSAa percentage change, oxygenation and arterial blood gas variables, adverse events, and patient comfort.
+
+Of 100 randomized patients, 94 completed the study (47 per group). Group T demonstrated a significantly lower incidence of gastric insufflation post-intubation compared to Group M (23.4% vs 44.7%; P = 0.030) and a smaller median percentage increase in antral cross-sectional area (7.62% vs 13.24%; P = 0.070). THRIVE provided superior preoxygenation (higher PaO2 at T2, P < 0.001). During apnea (T3-T4), Group T maintained adequate oxygenation (SpO2 >92%) without mechanical ventilation but developed mild hypercapnia, which was expected to improve following continued mechanical ventilation after intubation. Adverse event rates were non-significant (P = 1.000). Patient comfort scores were significantly higher in Group T (P < 0.001).
+
+In patients at high risk for OSA, THRIVE reduces the incidence of gastric insufflation during induction compared with oropharyngeal airway-assisted face-mask ventilation. THRIVE improves preoxygenation and patient comfort. Oxygenation was maintained during apnea, with a transient increase in PaCO2 observed after intubation.
+
+
+
+================================================================================
+Isolation and characterization of lytic Shigella bacteriophages with rapid in vitro and ex vivo bactericidal activity.
+
+The emergence of shigellosis caused by Shigella spp. poses a significant threat to global health, and the prevalence of multidrug-resistant (MDR) strains necessitates the development of effective antimicrobial therapies. Bacteriophages present a promising approach for both prevention and treatment of MDR infections.
+
+Ten lytic bacteriophages targeting Shigella flexneri 2457T were isolated from wastewater using the double-layer agar method. Phage morphology, lytic activity spectrum, latent period, burst size, bacterial killing efficiency, and efficacy under ex vivo microbiota conditions were evaluated. Transmission electron microscopy, one-step growth assays, bacterial killing assays, anaerobic fecal slurry co-culture experiments, and whole-genome sequencing of the representative phage PSW32 were performed.
+
+Transmission electron microscopy revealed that these phages possessed icosahedral heads and contractile tails, consistent with myovirus-like morphology commonly observed among tailed bacteriophages within the class Caudoviricetes. Most phages exhibited broad lytic activity against S. flexneri, S. sonnei, and S. dysenteriae, with limited activity against S. boydii in spot assay. Among them, phages PSW32, PSW37, PSW38, and PSW40 exhibited lytic activity against the largest number of tested Shigella strains under the spot assay conditions. One-step growth assays revealed latent periods of 30-70 minutes and burst sizes of 40-267 PFU/cell, indicating efficient host infection activity. At multiplicities of infection (MOIs) ranging from 10 to 0.001, all phages efficiently suppressed the growth of S. flexneri. Based on their lytic kinetics and host range, PSW32 and PSW40 were further evaluated in an ex vivo microbiota model using anaerobic fecal slurry co-cultures. PSW32 reduced CFUs by 88% at 2 h and decreased bacterial levels to below the limit of detection (LOD) by 3 h. PSW40 reduced CFUs by 69% at 2 h and reduced bacterial levels to below the limit of detection (LOD) by 3 h. Genomic analysis of PSW32 identified a T4-like lytic architecture with no detectable genes linked to antimicrobial resistance or virulence, supporting its potential applicability for further evaluation.
+
+These newly isolated lytic phages exhibited rapid bacterial activity under both in vitro and ex vivo microbiota-associated conditions and broad lytic activity against multiple Shigella species, Collectively, the findings support their potential for further investigation as phage-based strategies for controlling Shigella infections and contamination.
+
+
+
+================================================================================
+Toward surrogate-based conservation: Preservation of European eel (Anguilla anguilla) spermatogonial stem cells.
+
+In this study, we optimized cryopreservation and hypothermic storage protocols for the European eel (Anguilla anguilla) spermatogonial stem cells (SSCs). As the European eel is listed as a critically endangered fish species on the IUCN red list, there is a strong need to develop and advance ex situ conservation strategies beyond the current conservation measures. Cryopreservation of SSCs was done through freezing and vitrification of testicular tissue pieces. Freezing was optimized through five sequential experiments and has yielded SSC post-thaw viability above 50%. The physiological competence of frozen/thawed cells was tested by transplanting donor-derived testicular cells into sterilized common carp larvae. After two months, gonads of 32% of the recipients displayed a positive fluorescent signal indicating that frozen/thawed cells retained physiological competence. Needle-immersed vitrification was optimized by testing different equilibration and vitrification solutions. SSCs displayed viability rates above 70% after protocol optimization. Hypothermic storage experiments displayed that storage of isolated testicular cells is more favorable than storing testicular tissue pieces, and that there was no significant reduction of SSC viability for 6 days when storing them in testicular cell suspension. Results obtained in this study are the first validated protocols for SSC preservation in the European eel and present the foundation for biobanking and future development of surrogate-based ex situ conservation programs for this and phylogenetically-related eel species.
+
+
+
+================================================================================
+ELECLA trial: final results of perioperative chemotherapy with fluoropyrimidine and oxaliplatin in mismatch repair proficient locally advanced colon cancer.
+
+The current standard of care for resectable locally advanced colon cancer (LACC) is based on upfront surgery followed by adjuvant chemotherapy (AC). This study aimed to evaluate the safety and efficacy of neoadjuvant chemotherapy (NAC) in this setting.
+
+ELECLA is a multicenter, randomized, open-label, phase II controlled trial conducted across 12 hospitals in Spain between March 2017 and June 2024. This report presents the results of a preplanned interim analysis conducted after early termination of recruitment following the loss of clinical equipoise. Patients with radiologically defined LACC (T3 > 5 mm/T4, any N, and M0) and proficient mismatch repair status, were randomly assigned at a 1:1 ratio to receive either NAC (three cycles of CAPOX or five of FOLFOX), surgery, and AC (investigational group) or upfront surgery followed by AC (control group). The primary endpoint was 2-year disease-free survival.
+
+A total of 120 patients were included. The NAC completion rate was 94.2%, with a nonsignificant trend toward a reduced surgical complication rate compared with controls (17.3% versus 22.1%; P = 0.52). In the investigational group, a favorable radiologic tumor downstaging was achieved, with a tumor volume reduction of 65.4% (P < 0.001), and a tumor regression grading of 0-2 in 51.2% of assessable patients. An R0 resection was achieved in all patients within the NAC group. A relevant reduction in classical histological adverse prognostic features, including lymphatic invasion (21.5% versus 44.1%; P = 0.009), tumor budding (23.3% versus 58.5%; P = 0.002), and incomplete resections (0% versus 7.4%; P = 0.068) was observed in the NAC group. The 2-year disease-free survival rate was 88.9% [95% confidence interval (CI) 75.2% to 95.2%] in the intervention group and 83.3% (95% CI 70.9% to 90.7%) in the control group (P = 0.34).
+
+NAC is safe, feasible, and associated with improved tumor downstaging and favorable pathologic features without increased perioperative morbidity. These findings support the use of NAC as a safe and efficient therapeutic option in patients with LACC.
+
+
+

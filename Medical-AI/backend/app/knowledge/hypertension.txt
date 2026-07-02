@@ -1,0 +1,59 @@
+================================================================================
+A mechanistic study on the enhanced antihypertensive effects of a Dendrobium officinale compound combined with Western antihypertensive drugs in spontaneously hypertensive rats based on metabolomics and gut microbiota analysis.
+
+In our previously published research, we reported that the combination of Dendrobium Officinale Compound (DOC) and antihypertensive medications (irbesartan and amlodipine besylate) significantly and stably regulates blood pressure in spontaneously hypertensive rats (SHRs). This study aims to further explore the unique mechanisms and pathway networks underlying the antihypertensive effects of this combination therapy at the molecular level, based on serum and ileocecal contents metabolomics as well as gut microbiota analysis.
+
+Utilizing UPLC-Q-TOF/MS and metabolomics techniques, we collected, analyzed, and integrated metabolite data to identify differential small molecule metabolites. High-throughput sequencing of the 16S rRNA gene was employed to characterize differences in gut microbiota composition among experimental animals subjected to distinct pharmacological interventions, and further elucidating the underlying antihypertensive mechanism network associated with the combined administration of DOC and conventional antihypertensive drugs.
+
+Metabolomic analyses revealed substantial differences in the profiles of low-molecular-weight metabolites in both serum and ileocecal contents across all treatment groups compared with the model control group. The antihypertensive effects of medium- and high-dose DOC in SHRs were associated with differential metabolites including L-tyrosine, L-methionine, and L-arginine; in contrast, the enhanced antihypertensive effect observed upon combination therapy with DOC and Western antihypertensive drugs correlated with distinct metabolites such as pregnenolone, creatine, and L-phenylalanine. 16S rRNA gene high-throughput sequencing of ileocecal contents indicated that the relative abundance of Firmicutes increased by 8.73%, 0.84%, and 10.40% following low-, medium-, and high-dose DOC interventions, respectively, relative to the model group; however, combination therapy with DOC and Western antihypertensive drugs resulted in an 8.80% decrease in Firmicutes abundance compared with the model group. Conversely, the relative abundance of Bacteroidetes decreased by 7.60%, 3.31%, and 7.67% after low-, medium-, and high-dose DOC treatments, respectively, versus the model group; yet, combination therapy led to a 7.05% increase in Bacteroidetes abundance relative to the model group.
+
+Metabolomic and 16S rRNA sequencing analyses revealed that these effects may be linked to DOC's specific modulation of serum amino acid profiles and remodeling of gut microbiota composition in PCAs. These findings provide new mechanistic insights into this traditional herb's antihypertensive action.
+
+
+
+================================================================================
+Porto Sinusoidal Vascular Disorder Manifesting as Diffuse Arterio-Portal Fistulae and Portal Hypertension After Donation-After-Circulatory-Death Liver Transplantation.
+
+Ischemic cholangiopathy (ICP) is a rare complication of orthotopic liver transplantation (LT), with an increased incidence in donation-after-circulatory-death (DCD) recipients, particularly without machine perfusion. As DCD utilization increases, challenges arise. We report a rare case of DCD-LT resulting in ICP, complicated by diffuse intrahepatic arterio-portal fistulae (APF) leading to portal hypertension and refractory ascites without any other cause. The candidate was relisted for LT, and the explant revealed diffuse intrahepatic APF and porto-sinusoidal vascular disorder (PSVD) without cirrhosis. To the best of our knowledge, no similar reports exist of LT recipients developing PSVD or diffuse APF, and their concurrence with ICP after DCD-LT raises concern for an association. This case report highlights the importance of considering diffuse APF and PSVD in LT recipients with ICP who develop features of portal hypertension without a clear cirrhotic etiology.
+
+
+
+================================================================================
+Hypertension among Middle Eastern and North African adults residing in the United States: addressing equity in health research representation using the All of Us Research Program, 2000-2024.
+
+Hypertension (HTN) is a leading modifiable risk factor for cardiovascular disease and mortality; however, its epidemiology among the Middle Eastern and North African (MENA) population residing in the United States (US) remains uncharacterized due to historical racial misclassification and underrepresentation in national datasets. This study aimed to evaluate HTN prevalence, treatment, control, and predictors among MENA adults using data from the All of Us Research Program (2000-2024).
+
+This was a retrospective cohort study of self-identified MENA adults aged ≥18 years with at least one outpatient blood pressure (BP) measurement. HTN was defined by an outpatient diagnosis of essential HTN. BP control was assessed using time in target range among participants with at least two outpatient BP measurements after index date and was defined as BP < 140/90 mm Hg ≥50% of outpatient visits. A stepwise logistic regression model was used to identify significant predictors of HTN.
+
+Among 2,572 MENA adults included in the analysis, 18% (463) had HTN. Among hypertensive participants, 76% (352 of 463) received antihypertensive treatment, and 85% (400 of 463) achieved BP control. Participants aged ≤ 50 years demonstrated significantly higher BP control proportion, compared with those aged >50 years (97 vs. 83%, p = 0.0137). Significant predictors of HTN included diabetes, chronic kidney disease, coronary artery disease, hyperlipidemia, sleep apnea, obesity, male sex, age, anxiety, vitamin D deficiency, and anemia.
+
+Among US MENA adults that participated in the All of Us research Program, HTN prevalence was lower than estimates reported for the general US adult population, while treatment and BP control were higher. Cardiometabolic conditions were the primary drivers of HTN risk, with additional associations observed for vitamin D deficiency and anemia, highlighting the need for improved inclusion of MENA adults in national health research to inform targeted prevention and management strategies.
+
+
+
+================================================================================
+Factors affecting color vision: a systematic review.
+
+To summarize the influencing factors of color vision and their clinical implications, with an emphasis on the roles of genetic, environmental, demographic factors as well as ocular and systemic disorders.
+
+Relevant literatures published from 2014 to 2024 were systematically retrieved from six databases including PubMed, Embase, Scopus, Web of Science, Cochrane Library, and Google Scholar. Search terms mainly covered color blindness, color vision deficiency (CVD), prevalence, incidence, protan, deutan, tritan, determinants, and risk factors. Eligible original English studies were screened according to predefined inclusion and exclusion criteria. Data extraction and quality evaluation were independently completed by two researchers. Qualitative systematic review was finally performed due to obvious inter-study heterogeneity.
+
+A total of 50 eligible studies were enrolled. The prevalence of CVD was markedly higher in males than in females. Age, gender, ethnicity, and occupation were closely correlated with CVD. Males and individuals aged over 60y were more vulnerable to red-green CVD. Occupational ultraviolet radiation exposure, systemic diseases including diabetes mellitus and hypertension, as well as optic nerve lesions were confirmed as vital risk factors for abnormal color vision.
+
+Apart from genetic and congenital factors, environmental exposure, aging, occupational characteristics, and various ocular and systemic diseases that impair retinal and optic nerve function can also affect color vision function. Clarifying these influencing factors helps ophthalmologists formulate targeted prevention schemes and individualized clinical interventions. Further well-designed longitudinal studies covering more diverse populations are still required in this field.
+
+
+
+================================================================================
+Philippine Clinical Practice Guidelines for Periodic Health Examination: Screening for Cardiovascular Disease.
+
+Cardiovascular diseases remain to be the leading cause of death in the Philippines. Screening may lead to improvement of clinical outcomes if such conditions are detected and managed early and appropriately. The benefits of screening for a particular disease must be balanced with potential harms due to mislabeling or adverse effects of treatment, as well as socio-economic implications in the primary care setting. The main objective of this clinical practice guideline initiated by the Department of Health and the National Institutes of Health is to provide evidence-based recommendations that will help primary care physicians in detecting selected cardiovascular diseases among apparently healthy, asymptomatic individuals, while considering the socio-economic implications of the diagnostic screening tests.
+
+We performed a systematic synthesis of evidence to address screening for six priority cardiovascular conditions among asymptomatic, apparently healthy adult Filipinos: 1) familial hypercholesterolemia, 2) coronary artery disease, 3) asymptomatic carotid artery stenosis, 4) peripheral arterial disease, 5) abdominal aortic aneurysm, and 6) atrial fibrillation. We followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to CPG development recommended by the Department of Health. The process included 1) generation of critical questions and critical outcomes, 2) retrieval of current and relevant evidence, 3) synthesis and assessment of the evidence base for these critical questions, 4) formulation of draft recommendations, 5) convening of a multisectoral stakeholder panel to discuss feasibility, values, and preferences, and assess the strength of the recommendations, and 6) planning for dissemination, implementation, impact evaluation, and updating.
+
+The CPG provides seven recommendations on six prioritized questions in the screening for certain cardiovascular disorders. After presentation of the evidence by the evidence reviewer experts and deliberation by the consensus panel, we came up with two statement recommendations for the question on screening for abdominal aortic aneurysm and one statement recommendation each for the rest of the clinical questions. The consensus panel made strong recommendations to screening for two conditions in asymptomatic and apparently healthy Filipinos, namely: familial hypercholesterolemia and abdominal aortic aneurysm (moderate).
+
+Among asymptomatic, apparently healthy adult Filipinos, we recommend routine screening for two cardiovascular conditions: familial hypercholesterolemia and abdominal aortic aneurysm, with the latter being applicable only to men 60-80 years of age. These recommendations are offered to guide the primary care physician in screening key cardiovascular diseases and should not supplant but rather supplement the healthcare provider's sound clinical judgment.
+
+
+

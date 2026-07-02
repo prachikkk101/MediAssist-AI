@@ -1,0 +1,69 @@
+================================================================================
+Subclinical left ventricular diastolic dysfunction in adults with overweight or obesity and preserved ejection fraction.
+
+Excess adiposity exerts haemodynamic, metabolic, and inflammatory effects on the myocardium that can produce left ventricular diastolic dysfunction (LVDD) before systolic function is impaired. South Asian adults are susceptible at lower body mass index (BMI) thresholds, yet evidence on subclinical LVDD in otherwise healthy adults with overweight or obesity is limited.
+
+Tertiary care hospital-based, cross-sectional study (June 2024-February 2026). 72 adults were enrolled aged 18-65 years with BMI ≥23 kg/m2 (Asian cut-offs) and preserved left ventricular ejection fraction (LVEF) > 50%, with no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction after excluding hypertension, diabetes, coronary, valvular, renal, thyroid, and pulmonary disease, sleep apnoea, smoking, and alcohol use. All underwent 2D transthoracic echocardiography classified per 2016 ASE/EACVI recommendations.
+
+Grade I LVDD was present in 29/72 participants (40.3%); none had grade 2 or grade 3 dysfunction. Affected adults were older (between 51 and 60 years of age) with higher HbA1c (5.52 vs 5.27%), LDL cholesterol (138.2 vs 110.9 mg/dL), and total cholesterol (205.9 vs 173.9 mg/dL). Mean BMI did not differ (27.9 vs 28.9 kg/m2), although BMI ≥25 kg/m2 as a binary indicator was associated with LVDD. E/A (0.76 vs 1.33) and septal e' (0.09 vs 0.11 m/s) were reduced; E/e' trended higher (8.29 vs 7.61). LVEF was preserved (∼64.7%) in both groups. No safety events occurred.
+
+Grade I left ventricular diastolic dysfunction was identified in 40.3% of adults with overweight or obesity and preserved systolic function who had no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction. Older age, higher HbA1c, and adverse lipid profiles were associated with LVDD, whereas BMI as a continuous variable was not. These findings suggest that subclinical diastolic abnormalities may be common in this population and support the need for prospective studies to determine their long-term clinical significance and relationship to future cardiovascular outcomes.
+
+
+
+================================================================================
+Efficacy and safety of huanglian wendan decoction as an adjuvant therapy for metabolic syndrome: a systematic review and meta-analysis.
+
+Metabolic syndrome (MetS) is a prevalent metabolic disorder with a rising global prevalence, serving as a risk factor for cardiovascular disease and type 2 diabetes. Huanglian Wendan Decoction, a commonly used formula in traditional Chinese medicine, has increasingly been used to treat MetS. This study aims to evaluate the efficacy and safety of Huanglian Wendan Decoction as an adjunctive therapy for MetS.
+
+This meta-analysis aims to systematically evaluate the efficacy and safety of Huanglian Wendan Decoction in treating metabolic syndrome, thereby providing new approaches and insights for its management.
+
+Literature searches were conducted using English-language databases (PubMed, Web of Science, Embase, and the Cochrane Library) and Chinese databases (China National Knowledge Infrastructure Wanfang, the VIP Chinese Science Journal Database, and the Chinese Biomedical Literature Database). The search period extended through 1 October 2025. Data were analyzed using RevMan 5.3 and Stata 17.0. The study protocol is registered in PROSPERO (registration number: CRD420251151304).
+
+A total of 17 randomized controlled trials, involving 1,549 patients, were ultimately included. Huanglian Wendan Decoction combined with conventional treatment for MetS significantly improved waist circumference (WC) (MD = -1.82 cm, 95% CI:-2.53 to -1.12, P < 0.00001), body mass index (BMI) (MD = -0.76 kg/m2, 95% CI: -0.99 to -0.54, P < 0.00001), systolic blood pressure (SBP) (MD = -6.62 mmHg, 95% CI: -7.58 to -5.66, P < 0.00001), diastolic blood pressure (DBP) (MD = -4.88 mmHg, 95% CI: -5.69 to -4.08, P < 0.00001), fasting plasma glucose (FPG) (MD = -0.71 mmol/L, 95% CI: -0.81 to -0.61, P < 0.00001), 2-h postprandial glucose (2 hPG) (MD = -0.71 mmol/L, 95% CI: -0.83 to -0.58, P < 0.00001), glycated haemoglobin (HbA1c) (MD = -0.47%, 95% CI: -0.68 to -0.26, P < 0.00001), triglycerides (TG) (MD = -0.38 mmol/L, 95% CI: -0.44 to -0.33, P < 0.00001), low-density lipoprotein cholesterol (LDL-C) (MD = -0.57 mmol/L, 95% CI: -0.73 to -0.42, P < 0.00001), and homeostasis model assessment of insulin resistance (HOMA-IR) (MD = -0.93, 95% CI: -1.09 to -0.78, P < 0.00001). However, conventional therapy demonstrated greater improvement in high-density lipoprotein cholesterol (HDL-C) (MD = 0.16 mmol/L, 95% CI: 0.14 to 0.18, P < 0.00001). Nevertheless, the safety of Huanglian Wendan Decoction combined with conventional therapy for MetS remains inconclusive, as the safety indicators showed no statistically significant differences (OR = 0.24, 95% CI: 0.03 to 2.26, P = 0.21).
+
+According to the results of the meta-analysis, Huanglian Wendan Decoction combined with standard treatment for metabolic syndrome (MetS) offers greater benefits than standard treatment alone; it can control blood pressure, blood lipid levels, and blood glucose, improve waist circumference (WC) and body mass index (BMI), and reduce insulin resistance. Huanglian Wendan Decoction is relatively safe. However, due to the limited number and quality of the included studies, the data from this study remain uncertain; further large-scale, double-blind, randomised controlled trials are required to validate these findings.
+
+https://www.crd.york.ac.uk/PROSPERO/view/CRD420251151304. Identifier CRD420251151304.
+
+
+
+================================================================================
+Triglyceride-glucose related index and its association with coronary heart disease risk in patients with metabolic dysfunction-associated steatotic liver disease: a retrospective analysis based on type 2 diabetes mellitus.
+
+The triglyceride-glucose (TyG) related index, as an emerging indicator of insulin resistance, has been shown to be closely associated with the clinical status (incidence of cardiovascular disease, all-cause mortality, etc.) in patients with MASLD. However, differences in this association among patients with or without type 2 diabetes mellitus (T2DM) have not yet been confirmed. This study aims to address this gap.
+
+This cross-sectional study included 812 patients with MASLD who visited our hospital from January 2021 to January 2025. Patients were divided into two groups based on the presence or absence of coronary heart disease (CHD). Univariate analysis was performed to compare baseline characteristics between groups. Univariate and multivariate logistic analyses were conducted to assess the associations between various biochemical indices, including TyG, and the risk of CHD. An interaction term between TyG and T2DM was constructed to evaluate the effect modification of diabetes status on this association. The performance of multivariate logistic regression models with and without the inclusion of T2DM was compared. Dose-response relationships between TyG and CHD risk under different T2DM statuses were explored, and receiver operating characteristic (ROC) curves were plotted.
+
+TyG showed a significant positive correlation with the risk of CHD (OR = 2.035). T2DM was also significantly positively associated with CHD risk (OR = 2.107). Several biochemical indices, including LDL, TG, ALT, AST, GGT, Scr, and HbA1c, were identified as associated factors for CHD (OR > 1), while HDL and eGFR were protective factors (OR < 1). Interaction analysis indicated that the association between TyG and CHD was significantly stronger in patients with T2DM, with an OR of 3.34, which was substantially higher than the OR of 1.89 observed in patients without T2DM. Restricted cubic spline (RCS) analysis demonstrated a linear relationship between TyG and CHD risk in both patients with and without T2DM. The ROC-derived cut-off value for TyG was 7.992 in patients without T2DM and 9.005 in patients with T2DM; beyond these cut-off values, the risk of CHD increased significantly.
+
+The TyG index shows a significant positive correlation with the risk of CHD in patients with MASLD, and this correlation is modified by T2DM.
+
+
+
+================================================================================
+Serum testosterone and cardiometabolic risk in Nigerian men with type 2 diabetes: a cross-sectional study.
+
+Type 2 diabetes mellitus (T2DM) increasingly burdens cardiometabolic health in Nigerian men, with evidence indicating testosterone deficiency may worsen atherosclerotic cardiovascular disease (ASCVD) risk. Despite the high rates of hypogonadism in T2DM men, limited studies have examined how low testosterone is linked with cardiometabolic risk. This study assessed the associations between serum testosterone and cardiometabolic risk in Nigerian men with T2DM.
+
+In this cross-sectional study, 537 adult men were recruited, 358 with T2DM and 179 non-diabetic controls. Participants were stratified by T2DM and testosterone levels. Clinical, anthropometric, and biochemical measurements, including lipid and serum testosterone, were obtained. The 10-year ASCVD risk was estimated using ACC/AHA equations. Data were analyzed using two-way ANOVA, Pearson correlations, and multivariable regression.
+
+Men with T2DM had significantly higher ASCVD 10-year score than non-diabetic controls, independent of testosterone status (PT2DM<0.0001). Hypogonadal T2DM men exhibited higher BMI, central obesity, total and LDL cholesterol, and lower HDL cholesterol. In multivariable analyses within the T2DM cohort, serum testosterone was not independently associated with the ASCVD risk score or any individual cardiometabolic risk factor.
+
+Men with T2DM have a higher estimated 10-year ASCVD risk than non-diabetic controls, irrespective of testosterone status, with T2DM men with low testosterone showing a more adverse cardiometabolic profile. However, testosterone is not an independent predictor of ASCVD risk after multivariable adjustment, suggesting that T2DM-related metabolic risk factors are the dominant drivers of calculated cardiovascular risk. Longitudinal studies are required to establish causality and clinical relevance.
+
+
+
+================================================================================
+Traditional Chinese Medicines for Metabolic Dysfunction-Associated Steatotic Liver Disease: A Mixed-Method Systematic Review.
+
+This mixed-method systematic review evaluated the efficacy and safety of Traditional Chinese Medicine (TCM) for metabolic dysfunction-associated steatotic liver disease (MASLD) and identified core TCM herbs/compatibility regimens.
+
+Six databases were searched (inception to December 31, 2025) for randomized controlled trials (RCTs) of TCM combinations for adult MASLD, with placebo/treatment-as-usual (TAU) as controls. Two independent teams performed screening, data extraction and quality assessment. Quantitative synthesis included meta-analysis with subgroup/meta-regression analyses, publication bias assessment and sensitivity analysis; qualitative synthesis used TCM data mining to identify core herbs and compatibility patterns.
+
+A total of 56 RCTs were included. TCM significantly improved TCM Symptom Score, clinical effective rate, liver controlled attenuation parameter (CAP), liver function (ALT, AST, GGT), lipid metabolism (TC, TG, LDL-C) and reduced BMI, with no benefit for HDL-C. Male proportion had no moderating effect on outcomes. TCM-related adverse events (mainly diarrhea and gastrointestinal discomfort) were mild and rare; 63.2% of studies reported no adverse events. Included RCTs had suboptimal methodological quality (high unclear bias in allocation concealment and blinding). Qualitative analysis of 39 studies identified 78 TCM herbs, with Crataegus pinnatifida (Shan Zha) the most frequent. Six core herbs were identified, with Salvia miltiorrhiza (Dan Shen) and Crataegus pinnatifida (Shan Zha) as the core of the compatibility regimens.
+
+TCM formulations may provide symptomatic and metabolic benefits for MASLD with acceptable safety and identifiable core herbs; however, evidence certainty is very low due to pervasive poor methodological quality of included RCTs, which severely undermines confidence in findings. High-quality RCTs and mechanistic research are warranted.
+
+
+

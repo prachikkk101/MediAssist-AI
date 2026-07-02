@@ -1,0 +1,53 @@
+================================================================================
+Triglyceride-glucose related index and its association with coronary heart disease risk in patients with metabolic dysfunction-associated steatotic liver disease: a retrospective analysis based on type 2 diabetes mellitus.
+
+The triglyceride-glucose (TyG) related index, as an emerging indicator of insulin resistance, has been shown to be closely associated with the clinical status (incidence of cardiovascular disease, all-cause mortality, etc.) in patients with MASLD. However, differences in this association among patients with or without type 2 diabetes mellitus (T2DM) have not yet been confirmed. This study aims to address this gap.
+
+This cross-sectional study included 812 patients with MASLD who visited our hospital from January 2021 to January 2025. Patients were divided into two groups based on the presence or absence of coronary heart disease (CHD). Univariate analysis was performed to compare baseline characteristics between groups. Univariate and multivariate logistic analyses were conducted to assess the associations between various biochemical indices, including TyG, and the risk of CHD. An interaction term between TyG and T2DM was constructed to evaluate the effect modification of diabetes status on this association. The performance of multivariate logistic regression models with and without the inclusion of T2DM was compared. Dose-response relationships between TyG and CHD risk under different T2DM statuses were explored, and receiver operating characteristic (ROC) curves were plotted.
+
+TyG showed a significant positive correlation with the risk of CHD (OR = 2.035). T2DM was also significantly positively associated with CHD risk (OR = 2.107). Several biochemical indices, including LDL, TG, ALT, AST, GGT, Scr, and HbA1c, were identified as associated factors for CHD (OR > 1), while HDL and eGFR were protective factors (OR < 1). Interaction analysis indicated that the association between TyG and CHD was significantly stronger in patients with T2DM, with an OR of 3.34, which was substantially higher than the OR of 1.89 observed in patients without T2DM. Restricted cubic spline (RCS) analysis demonstrated a linear relationship between TyG and CHD risk in both patients with and without T2DM. The ROC-derived cut-off value for TyG was 7.992 in patients without T2DM and 9.005 in patients with T2DM; beyond these cut-off values, the risk of CHD increased significantly.
+
+The TyG index shows a significant positive correlation with the risk of CHD in patients with MASLD, and this correlation is modified by T2DM.
+
+
+
+================================================================================
+Salvaging Defects: Scalp Flap as a Rescue Approach in Complex Head and Neck Reconstructive Procedure.
+
+Oral cancer is a significant global health concern, ranking as the sixth most common cancer worldwide, and is the most prevalent cancer among men in India. Treatment often involves multimodal approaches, with surgical resection being primary. Complex reconstructive challenges arise in cases of recurrence, flap failure, osteoradionecrosis (ORN), or when traditional flap options are exhausted. The scalp flap, with its rich vascularity and robust axial supply from the superficial temporal artery, offers a viable salvage option for head and neck reconstruction. This retrospective study evaluated oral cancer patients treated between February 2020 and February 2025. Scalp flaps were used in 21 male patients for salvage reconstruction in cases involving recurrence, flap necrosis, skin loss, or ORN. Flaps were planned with Doppler mapping, elevated in the subgaleal plane, and inset into the defect. Donor sites were managed with split-thickness skin grafts. All 21 patients underwent successful scalp flap reconstruction for various oral subsites, including the buccal mucosa, lower gingivobuccal sulcus, floor of mouth, and lip. Prior reconstructions included PMMC, submental, ALT, and fibula flaps. The scalp flap provided effective coverage with satisfactory outcomes in function and contour restoration, especially where previous flaps had failed or were not viable. The scalp flap is a reliable, well-vascularized salvage option in complex oral cancer reconstructions, particularly in post-radiation and recurrent settings. Despite aesthetic limitations and the need for a two-stage procedure, its anatomical and vascular properties make it a valuable alternative when conventional options are not feasible.
+
+
+
+================================================================================
+Noninvasive Prediction of Significant Hepatic Injury in Treatment-Naïve Children with Chronic HBV Infection.
+
+Significant hepatic injury (SHI) in children with chronic hepatitis B virus (HBV) infection requires timely identification, yet liver biopsy is invasive and not routinely feasible. This study aimed to develop a non-invasive predictive model for SHI.
+
+This retrospective analysis included treatment-naïve children with chronic HBV infection undergoing liver biopsy. Participants were randomly split into 70% training and 30% independent testing cohorts prior to preprocessing. Missing data imputation and least absolute shrinkage and selection operator (LASSO)-based feature selection were performed, and nine machine learning (ML) models were developed and optimized using nested cross-validation (CV). The optimal logistic regression (LR) model was used to construct and validate a predictive nomogram.
+
+A total of 246 eligible children were included, of whom 147 (59.8%) had SHI. LASSO regression identified five predictors for model development. Among the evaluated ML models, LR showed stable performance, achieving an area under the receiver operating characteristic curve (AUC) of 0.799 (95% CI: 0.740-0.858) in the training folds, 0.781 (95% CI: 0.585-0.972) in the validation folds, and 0.707 (95% CI: 0.562-0.851) in the independent testing cohort. The nomogram showed moderate calibration and better clinical utility compared with alanine aminotransferase (ALT) alone across a broad range of threshold probabilities.
+
+We developed a non-invasive predictive model based on routine clinical data to detect SHI in treatment-naïve children with chronic HBV infection, which exhibited moderate predictive power and marginal improvement over ALT alone.
+
+
+
+================================================================================
+Diethyl Phthalate-Induced Oxidative Stress, Altered Biomarker Responses and Apoptosis in Zebrafish Larvae.
+
+Diethyl phthalate (DEP) is a widespread and persistent organic pollutant that affects aquatic life and ecosystems. Our study uses zebrafish larvae to assess the effects of DEP on metabolic pathways involved in growth and development. Zebrafish larvae exposed to DEP showed an increased mortality rate of 97% and a reduced hatching rate of 37% at the highest concentration. Also, exposure to DEP caused an increased heartbeat compared to the untreated control, indicating DEP-induced developmental toxicity. Moreover, elevated ROS levels and significant changes in other biomarkers like SOD, CAT, GPx, GST, LDH, AP, GSH, LPO, and NO at the highest concentration indicate severe oxidative stress. Similarly, significant changes in AChE activity and cortisol levels denote neurochemical alterations and stress in treated larvae. Higher levels of ALT and AST were also observed in the larvae treated with DEP, indicating that the exposure causes changes in the activity of liver enzymes. DEP also causes cell death, which leads to increased apoptotic rates in the treated larvae compared to the untreated control. Also, elevated levels of caspase-3, 8 and 9, which are key regulators of the apoptosis pathway, were observed in larvae treated with the highest concentration of DEP. Furthermore, expression analysis revealed the downregulation of the anti-apoptotic gene BCl2 and the upregulation of the pro-apoptotic gene Bax, confirming apoptosis induction in DEP treated larvae. In conclusion, our study highlights the toxicological effects of DEP on various cellular pathways and the alarming concern about its potential impacts on the ecosystem and human health.
+
+
+
+================================================================================
+Traditional Chinese Medicines for Metabolic Dysfunction-Associated Steatotic Liver Disease: A Mixed-Method Systematic Review.
+
+This mixed-method systematic review evaluated the efficacy and safety of Traditional Chinese Medicine (TCM) for metabolic dysfunction-associated steatotic liver disease (MASLD) and identified core TCM herbs/compatibility regimens.
+
+Six databases were searched (inception to December 31, 2025) for randomized controlled trials (RCTs) of TCM combinations for adult MASLD, with placebo/treatment-as-usual (TAU) as controls. Two independent teams performed screening, data extraction and quality assessment. Quantitative synthesis included meta-analysis with subgroup/meta-regression analyses, publication bias assessment and sensitivity analysis; qualitative synthesis used TCM data mining to identify core herbs and compatibility patterns.
+
+A total of 56 RCTs were included. TCM significantly improved TCM Symptom Score, clinical effective rate, liver controlled attenuation parameter (CAP), liver function (ALT, AST, GGT), lipid metabolism (TC, TG, LDL-C) and reduced BMI, with no benefit for HDL-C. Male proportion had no moderating effect on outcomes. TCM-related adverse events (mainly diarrhea and gastrointestinal discomfort) were mild and rare; 63.2% of studies reported no adverse events. Included RCTs had suboptimal methodological quality (high unclear bias in allocation concealment and blinding). Qualitative analysis of 39 studies identified 78 TCM herbs, with Crataegus pinnatifida (Shan Zha) the most frequent. Six core herbs were identified, with Salvia miltiorrhiza (Dan Shen) and Crataegus pinnatifida (Shan Zha) as the core of the compatibility regimens.
+
+TCM formulations may provide symptomatic and metabolic benefits for MASLD with acceptable safety and identifiable core herbs; however, evidence certainty is very low due to pervasive poor methodological quality of included RCTs, which severely undermines confidence in findings. High-quality RCTs and mechanistic research are warranted.
+
+
+

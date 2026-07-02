@@ -1,0 +1,69 @@
+================================================================================
+Documented Obstructive Sleep Apnea, Cardiometabolic Phenotype, and Rhythm-Related Outcomes After Atrial Fibrillation Ablation: An Observational Cohort Study.
+
+Obstructive sleep apnea syndrome (OSAS) is common in atrial fibrillation (AF) and may influence AF phenotype and post-ablation recurrence. We aimed to determine whether documented OSAS identifies a distinct clinical phenotype and whether it is associated with post-ablation rhythm-related outcomes.
+
+We performed a single-center observational study with two overlapping cohorts. The principal registry cohort comprised 2559 patients with first AF ablation with pulmonary vein isolation (PVI) treated between November/2021 and July/2025. Its primary endpoint was the same-center rhythm-intervention endpoint, defined as the first post-index repeat PVI or electrical cardioversion at the study center. A 7-day Holter was scheduled 90 days after ablation. The nested active 2022 cohort comprised 666 AF/PVI patients.
+
+Documented OSAS was present in 268 of 2559 registry patients, 10.5%, and in 66 of 652 patients with known OSAS status in the active subset, 10.1%. Documented OSAS was associated with higher BMI, more obesity, hypertension, diabetes, persistent AF, higher triglycerides and liver enzymes, and lower HDL cholesterol. In the registry cohort, the same-center rhythm-intervention endpoint occurred in 59/268 patients with documented OSAS (22.0%) and 521/2291 without documented OSAS (22.7%; p = 0.788). Documented OSAS was not associated with the registry endpoint after adjustment (OR: 0.87, 95% CI: 0.63-1.21; p = 0.411). In the active 2022 cohort, recurrence occurred in 16/32 patients with documented OSAS (50.0%) and 167/302 without documented OSAS (55.3%; p = 0.581). Adjusted Cox analysis also showed no independent documented OSAS (HR: 1.08, 95% CI: 0.61-1.94; p = 0.786).
+
+Documented OSAS identified an adverse cardiometabolic AF ablation phenotype but was not independently associated with same-center rhythm interventions.
+
+
+
+================================================================================
+Efficacy and safety of huanglian wendan decoction as an adjuvant therapy for metabolic syndrome: a systematic review and meta-analysis.
+
+Metabolic syndrome (MetS) is a prevalent metabolic disorder with a rising global prevalence, serving as a risk factor for cardiovascular disease and type 2 diabetes. Huanglian Wendan Decoction, a commonly used formula in traditional Chinese medicine, has increasingly been used to treat MetS. This study aims to evaluate the efficacy and safety of Huanglian Wendan Decoction as an adjunctive therapy for MetS.
+
+This meta-analysis aims to systematically evaluate the efficacy and safety of Huanglian Wendan Decoction in treating metabolic syndrome, thereby providing new approaches and insights for its management.
+
+Literature searches were conducted using English-language databases (PubMed, Web of Science, Embase, and the Cochrane Library) and Chinese databases (China National Knowledge Infrastructure Wanfang, the VIP Chinese Science Journal Database, and the Chinese Biomedical Literature Database). The search period extended through 1 October 2025. Data were analyzed using RevMan 5.3 and Stata 17.0. The study protocol is registered in PROSPERO (registration number: CRD420251151304).
+
+A total of 17 randomized controlled trials, involving 1,549 patients, were ultimately included. Huanglian Wendan Decoction combined with conventional treatment for MetS significantly improved waist circumference (WC) (MD = -1.82 cm, 95% CI:-2.53 to -1.12, P < 0.00001), body mass index (BMI) (MD = -0.76 kg/m2, 95% CI: -0.99 to -0.54, P < 0.00001), systolic blood pressure (SBP) (MD = -6.62 mmHg, 95% CI: -7.58 to -5.66, P < 0.00001), diastolic blood pressure (DBP) (MD = -4.88 mmHg, 95% CI: -5.69 to -4.08, P < 0.00001), fasting plasma glucose (FPG) (MD = -0.71 mmol/L, 95% CI: -0.81 to -0.61, P < 0.00001), 2-h postprandial glucose (2 hPG) (MD = -0.71 mmol/L, 95% CI: -0.83 to -0.58, P < 0.00001), glycated haemoglobin (HbA1c) (MD = -0.47%, 95% CI: -0.68 to -0.26, P < 0.00001), triglycerides (TG) (MD = -0.38 mmol/L, 95% CI: -0.44 to -0.33, P < 0.00001), low-density lipoprotein cholesterol (LDL-C) (MD = -0.57 mmol/L, 95% CI: -0.73 to -0.42, P < 0.00001), and homeostasis model assessment of insulin resistance (HOMA-IR) (MD = -0.93, 95% CI: -1.09 to -0.78, P < 0.00001). However, conventional therapy demonstrated greater improvement in high-density lipoprotein cholesterol (HDL-C) (MD = 0.16 mmol/L, 95% CI: 0.14 to 0.18, P < 0.00001). Nevertheless, the safety of Huanglian Wendan Decoction combined with conventional therapy for MetS remains inconclusive, as the safety indicators showed no statistically significant differences (OR = 0.24, 95% CI: 0.03 to 2.26, P = 0.21).
+
+According to the results of the meta-analysis, Huanglian Wendan Decoction combined with standard treatment for metabolic syndrome (MetS) offers greater benefits than standard treatment alone; it can control blood pressure, blood lipid levels, and blood glucose, improve waist circumference (WC) and body mass index (BMI), and reduce insulin resistance. Huanglian Wendan Decoction is relatively safe. However, due to the limited number and quality of the included studies, the data from this study remain uncertain; further large-scale, double-blind, randomised controlled trials are required to validate these findings.
+
+https://www.crd.york.ac.uk/PROSPERO/view/CRD420251151304. Identifier CRD420251151304.
+
+
+
+================================================================================
+Correlation of the monocyte to high-density lipoprotein cholesterol ratio and neutrophil to high-density lipoprotein cholesterol ratio with the severity of acute ischemic stroke.
+
+Stroke as the major cause of mortality and morbidity worldwide, requires early assessment of severity and prognosis for effective treatment. There is an emerging role of inflammatory markers in stroke severity. Thus, we aimed to determine the correlation of neutrophil to HDL-cholesterol ratio (NHR) and monocyte to HDL-cholesterol ratio (MHR) with the severity of acute ischemic stroke (AIS).
+
+A single Centre cross-sectional study involving adult patients with AIS. Patients were grouped into mild and moderate-severe stroke by National Institute of Health Severity Scale (NIHSS). Demographic, clinical and laboratory data of participants were collected.Spearman correlation analysis, univariate and multiple logistic regression analysis were utilized to explore the correlation between MHR with AIS severity. A receiver operating characteristic curve was created to determine the discriminatory ability of MHR in assessing stroke severity.
+
+Male gender, diabetes, hypertension, monocyte count, triglyceride, total cholesterol, CRP, uric acid and MHR were found statistically significant between the mild and moderate-severe stroke groups. Spearman correlation analysis produced a weak but statistically significant positive correlation between MHR and NIHSS score with a correlation coefficient of 0.201 (P = 0.026). Binary logistic regression analysis demonstrated that MHR had statistically insignificant positive association with higher NIHSS scores (OR = 2.275, 95% CI: 0.924-5.6, p = 0.074). Multiple logistic regression analysis revealed that MHR was not independently associated with stroke severity scale (adjusted OR = 1.527, 95% CI: 0.559-4.173, p = 0.409). The area under the curve (AUC) for MHR association with AIS was 0.588 (95% CI: 0.485-0.691, p = 0.101) with specificity of 87.5% and sensitivity of 40.5%.
+
+MHR could serve as a new, readily accessible and inexpensive indicator of the severity of AIS.
+
+
+
+================================================================================
+Change in circulating irisin level and its association with lipid metabolism after exenatide treatment in patients with type 2 diabetes mellitus.
+
+Irisin is a metabolism-related myokine associated with lipid metabolism and insulin resistance. However, its changes during glucagon-like peptide-1 (GLP-1) receptor agonist therapy remain unclear.
+
+This exploratory analysis of a multicenter trial included 189 adults with T2DM inadequately controlled with metformin and/or insulin secretagogue. The participants received the GLP-1 receptor agonist exenatide as an add-on therapy for 16 weeks. Serum irisin and glycolipid metabolism were evaluated. Comparison was performed between two subgroups of the participants stratified by a median change from baseline in serum irisin level. Associations between change in irisin level and changes in metabolic parameters were assessed using Pearson or Spearman correlation analysis and multivariable linear regression analysis.
+
+After the 16-week exenatide treatment, serum irisin level significantly declined from baseline (3.22 ± 0.53 ng/mL vs. 3.35 ± 0.64 ng/mL, P = 0.031). Change in irisin level was positively associated with change in high-density lipoprotein cholesterol (HDL-C) level (r = 0.154, P = 0.035), and negatively associated with changes in triglyceride (TG) level (r = -0.159, P = 0.029) and TG/HDL-C ratio (r = -0.172, P = 0.018). These associations for TG level and TG/HDL-C ratio remained significant after multivariable adjustment. No significant association was observed between change in irisin level and glycemic control parameters.
+
+Serum irisin level declines during the exenatide treatment in patients with T2DM, and this reduction is associated with change in lipid metabolism but not glycemic control, suggesting a potential link between dynamic change of irisin and lipid metabolism during the exenatide treatment.
+
+
+
+================================================================================
+Triglyceride-glucose related index and its association with coronary heart disease risk in patients with metabolic dysfunction-associated steatotic liver disease: a retrospective analysis based on type 2 diabetes mellitus.
+
+The triglyceride-glucose (TyG) related index, as an emerging indicator of insulin resistance, has been shown to be closely associated with the clinical status (incidence of cardiovascular disease, all-cause mortality, etc.) in patients with MASLD. However, differences in this association among patients with or without type 2 diabetes mellitus (T2DM) have not yet been confirmed. This study aims to address this gap.
+
+This cross-sectional study included 812 patients with MASLD who visited our hospital from January 2021 to January 2025. Patients were divided into two groups based on the presence or absence of coronary heart disease (CHD). Univariate analysis was performed to compare baseline characteristics between groups. Univariate and multivariate logistic analyses were conducted to assess the associations between various biochemical indices, including TyG, and the risk of CHD. An interaction term between TyG and T2DM was constructed to evaluate the effect modification of diabetes status on this association. The performance of multivariate logistic regression models with and without the inclusion of T2DM was compared. Dose-response relationships between TyG and CHD risk under different T2DM statuses were explored, and receiver operating characteristic (ROC) curves were plotted.
+
+TyG showed a significant positive correlation with the risk of CHD (OR = 2.035). T2DM was also significantly positively associated with CHD risk (OR = 2.107). Several biochemical indices, including LDL, TG, ALT, AST, GGT, Scr, and HbA1c, were identified as associated factors for CHD (OR > 1), while HDL and eGFR were protective factors (OR < 1). Interaction analysis indicated that the association between TyG and CHD was significantly stronger in patients with T2DM, with an OR of 3.34, which was substantially higher than the OR of 1.89 observed in patients without T2DM. Restricted cubic spline (RCS) analysis demonstrated a linear relationship between TyG and CHD risk in both patients with and without T2DM. The ROC-derived cut-off value for TyG was 7.992 in patients without T2DM and 9.005 in patients with T2DM; beyond these cut-off values, the risk of CHD increased significantly.
+
+The TyG index shows a significant positive correlation with the risk of CHD in patients with MASLD, and this correlation is modified by T2DM.
+
+
+

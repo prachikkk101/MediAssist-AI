@@ -1,0 +1,61 @@
+================================================================================
+Predicting Gram-negative bloodstream infection in elderly patients after isolation of GNB from non-blood specimens: a machine learning-based tool.
+
+This study aimed to develop a machine learning-based model for the early identification of elderly inpatients at high risk of Gram-negative bloodstream infection immediately following the first detection of Gram-negative bacteria in non-blood specimens (e.g., urine, sputum, wound secretions), during the 48-72 h window before blood culture results become available.
+
+A retrospective cohort study was conducted across three centers of Sichuan Provincial People's Hospital (Qingyang, Caotang, and Chengdong Campuses). It enrolled 9,646 elderly inpatients with Gram-negative bacteria positivity in any specimen during their hospitalization between January 2017 and December 2022. Predictor variables were screened using LASSO regression and Boruta algorithm, and their clinical significance was validated via the Delphi expert consultation method. Six machine learning models-random forest, XGBoost, logistic regression, artificial neural network, k-nearest neighbors, and decision tree-were developed. The discriminatory performance of the models was evaluated using a comprehensive set of metrics, including the area under the receiver operating characteristic curve along with other key indicators such as accuracy and recall.
+
+The XGBoost model demonstrated the optimal performance among the developed models, achieving a test set AUC of 0.816 (95% CI: 0.766-0.861), accuracy of 0.733, recall of 0.760, while logistic regression offered a simpler alternative with acceptable accuracy. Seven predictive variables were identified: maximum procalcitonin level, max neutrophil percentage, maximum C-reactive protein level, minimum white blood cell count, venous catheter, age, and length of hospital stay. SHAP variable importance analysis identified maximum procalcitonin level, length of hospital stays, and max_neutrophil_percentage as the top three most important predictors. External validation in an independent MIMIC-IV database confirmed acceptable generalizability.
+
+The predictive model developed for Gram-negative bloodstream infections in elderly patients demonstrates promising predictive ability. It overcomes the temporal limitations of traditional blood culture, enabling the identification of high-risk elderly patients at the earliest stage of infection. This approach provides clinicians with a valuable intervention window and represents a novel pathway toward precision infection control.
+
+
+
+================================================================================
+Development and validation of a diagnostic model for late-onset neonatal sepsis using the haematological profile: a retrospective cohort study.
+
+Neonates admitted to intensive care units are at high risk of hospital-acquired infections. While blood cultures remain the gold standard for sepsis diagnosis, they do not detect infection in every case. Host immune response markers, such as C-reactive protein and procalcitonin, can assist in earlier detection but also have limitations and carry additional costs. We have developed a Neonatal Intensive Care Infection Score (NICIS), which leverages extended complete blood count (CBC+Diff + EIP) parameters, which may require specific analyser configuration or software licensing, to extract additional diagnostic value.
+
+We conducted a retrospective cohort study of neonates admitted to the Neonatal Intensive Care Unit at the John Radcliffe Hospital (Oxford, UK) over one year. Eighteen CBC+Diff + EIP parameters were initially considered based on their ability to differentiate culture-positive patients from those without clinical suspicion of infection. NICIS was developed as a weighted score and validated internally using a temporally distinct dataset and externally using a four-year retrospective cohort from Erasmus University Medical Center (Rotterdam, The Netherlands).
+
+Incorporating eight CBC+Diff + EIP parameters, NICIS values ranged from 0 to 25, with higher scores indicating a greater likelihood of sepsis. NICIS achieved an area under the curve of 0.906 in training, 0.879 in internal validation, and 0.841 in external validation, outperforming C-reactive protein and total white blood cell count in all datasets.
+
+NICIS provides an interpretable tool for sepsis detection using routinely collected CBC+Diff + EIP data without additional sampling. Its performance across internal and external cohorts suggests sufficient diagnostic accuracy, although prospective studies are warranted to further assess generalisability and clinical utility.
+
+The online version contains supplementary material available at 10.1007/s44253-026-00121-9.
+
+
+
+================================================================================
+Molecular Response to Treatment of Chronic Myeloid Leukemia at University Teaching Hospital of Kigali, Rwanda: One-Arm Open Label Prospective Observational Study.
+
+Chronic myeloid leukemia (CML) is among most common chronic hematological neoplasms marked by proliferation of granulocytes. Since 2001, the introduction of tyrosine kinase inhibitors (TKI), especially imatinib, the outcomes for patients with CML has improved significantly, and life expectancy is now almost the same as that of general population in developed countries. However, this is not the case in the developing world owing to the limited access to TKI. In Rwanda only imatinib is available and molecular response assessment is limited. This study describes the molecular responses of patients with CML treated with imatinib in Rwanda.
+
+This one-arm, open-label, prospective cohort study recruited 31 patients with CML who had been on imatinib for ≥ three months. Patients were followed-up for 12 months. Clinical features and laboratory results at the time of diagnosis were retrieved from hospitals' records. Clinical re-assessment, full blood count, and BCR::ABL1 testing were done at the time of recruitment. Data analysis was performed using SPSS 28.
+
+Using European LeukemiaNet BCR::ABL1 thresholds depending on time on imatinib; optimal, warning and failure (=resistance to imatinib) response categories were found in 38.7%; 16.1% and 45.2% respectively. The 12-month survival rate was 93.5% (n=29/31), all deaths (2/31) occurred in treatment failure group. Patients with late presentation (white blood cell counts >100x109/L and massive splenomegaly) at diagnosis and/or poor adherence to imatinib measured by the Morisky Medication Adherence Scale (MMAS-8), had a poor molecular response to imatinib.
+
+Although the 1-year survival rate was good for patients with CML treated with imatinib, the molecular response was generally poor. This may be due to late presentation and poor adherence to imatinib which needs further investigations. To improve the survival of patients with CML in Rwanda, access to all available lines of TKI and better follow-up should be considered.
+
+
+
+================================================================================
+Molecular Diagnosis and Phylogenetic Analysis of Hemotropic Mycoplasmas and Anaplasma spp. in Peripheral Blood of Goats in Northern Iran and Their Hematobiochemical Alterations.
+
+Anaplasma and hemoplasma are hemotropic bacteria that infect erythrocytes of various animal hosts and are responsible for significant veterinary health problems. This study aimed to determine the prevalence of Anaplasma spp. and hemotropic Mycoplasma spp. in goats in Mazandaran Province, Northern Iran. A total of 149 blood samples were collected from goats of different ages and sexes during the spring season. The samples were analyzed using polymerase chain reaction (PCR) to identify Anaplasma spp. and Mycoplasma spp. To identify bacterial species, representative amplicons of Mycoplasma (n = 4) and Anaplasma (n = 6) were sequenced. PCR testing revealed a prevalence of 19.4% for Anaplasma spp. and 28.1% for hemotropic Mycoplasma. Statistical analysis of blood parameters indicated significant differences between the Anaplasma-positive and negative groups, with a notable decrease in red blood cell (RBC) count and hematocrit (HCT) levels, while alkaline phosphatase (ALP) and triglyceride levels showed significant increases. In contrast, no significant differences were observed in hematological and biochemical parameters for the Mycoplasma-positive group. Molecular and phylogenetic analyses confirmed the presence of M. ovis (PQ793282), Anaplasma capra (PV176424), Anaplasma ovis (PV185359), and Anaplasma phagocytophilum (PV175399) in Iranian goats. This research represents the first report of M. ovis and A. capra in Iran and highlights the need for enhanced molecular surveillance of Anaplasma and Mycoplasma infections in livestock. Consequently, these pathogens-especially those exhibiting close genetic relationships with human pathogens-represent significant threats to both livestock and human health. This underscores the need for enhanced surveillance, recognition of potential zoonotic risks, vector control strategies, and vaccination measures.
+
+
+
+================================================================================
+Community-Acquired Pneumonia in Young Children: Variables Associated With Emergency Department Attendance and Hospitalization.
+
+This study was aimed at identifying variables associated with attending pediatric emergency departments (PEDs) and hospitalization of young children with community-acquired pneumonia (CAP).
+
+A population-based case-control study, which included all children aged 1-6 years diagnosed with CAP from three major districts of a health maintenance organization during 2014-2020. Children born preterm, or with chronic lung diseases or immunodeficiency, were excluded. The cohort was divided into three groups: children diagnosed and treated by the community pediatrician, those who attended PEDs, and those hospitalized.
+
+The cohort comprised 59,662 children with CAP, of whom 3685 (6.2%) attended PEDs and 2026 (3.4%) were hospitalized. Of the children treated in the PED, 33% were hospitalized versus 1.4% of those diagnosed in the community. Using multivariable analyses, members of a minority sector, low or middle socioeconomic status, elevated white blood cell count, and high C-reactive protein levels were independently and significantly associated with PED attendance and hospitalization.
+
+Community pediatricians should integrate the identified variables associated with attending PEDs and hospitalization to optimize management of children with CAP, given the potential for complications and mortality. The recognized 6.2% PED attendance and 3.4% hospitalization, with the identified related associations, have implications for pediatric healthcare planning.
+
+
+

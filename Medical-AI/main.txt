@@ -1,0 +1,13 @@
+Medical PDFs / Notes
+        ↓
+Text Chunks
+        ↓
+Embeddings (bge-small)
+        ↓
+ChromaDB Storage
+        ↓
+User Question
+        ↓
+Semantic Search
+        ↓
+Relevant Medical Info

@@ -1,0 +1,41 @@
+================================================================================
+Splenic Artery Hemorrhage as a Rare Delayed Complication of Percutaneous Endoscopic Gastrostomy.
+
+Percutaneous endoscopic gastrostomy (PEG) is commonly used for long-term enteral access in patients with dysphagia. We report a 67-year-old man with laryngeal carcinoma, prior stroke, and severe dysphagia who developed delayed hemorrhage from a branch of the splenic artery 7 days after PEG placement. He presented with abdominal pain, bleeding through the PEG tube, profound anemia, and hemodynamic instability. Imaging showed hemorrhage in the lesser sac, and angiography confirmed active splenic artery branch bleeding. Endovascular embolization achieved hemostasis. This rare complication is notable for its delayed presentation and favorable outcome after prompt intervention.
+
+
+
+================================================================================
+Rare Concurrent Findings With Collagenous Gastroduodenitis in a Pediatric Patient.
+
+Collagenous gastritis is a rare type of gastritis characterized by thickened subepithelial collagen and chronic inflammatory infiltrate. We describe the unique presentation of a previously healthy 13-year-old girl, who presented with severe fatigue and exertional dyspnea. The gastric and duodenal histologic features were consistent with collagenous sprue, collagenous gastritis, and chronic atrophic gastritis. To the best of our knowledge, the simultaneous presentation of these entities is highly uncommon in children, underscoring the importance of understanding its pathogenesis.
+
+
+
+================================================================================
+Hypertension among Middle Eastern and North African adults residing in the United States: addressing equity in health research representation using the All of Us Research Program, 2000-2024.
+
+Hypertension (HTN) is a leading modifiable risk factor for cardiovascular disease and mortality; however, its epidemiology among the Middle Eastern and North African (MENA) population residing in the United States (US) remains uncharacterized due to historical racial misclassification and underrepresentation in national datasets. This study aimed to evaluate HTN prevalence, treatment, control, and predictors among MENA adults using data from the All of Us Research Program (2000-2024).
+
+This was a retrospective cohort study of self-identified MENA adults aged ≥18 years with at least one outpatient blood pressure (BP) measurement. HTN was defined by an outpatient diagnosis of essential HTN. BP control was assessed using time in target range among participants with at least two outpatient BP measurements after index date and was defined as BP < 140/90 mm Hg ≥50% of outpatient visits. A stepwise logistic regression model was used to identify significant predictors of HTN.
+
+Among 2,572 MENA adults included in the analysis, 18% (463) had HTN. Among hypertensive participants, 76% (352 of 463) received antihypertensive treatment, and 85% (400 of 463) achieved BP control. Participants aged ≤ 50 years demonstrated significantly higher BP control proportion, compared with those aged >50 years (97 vs. 83%, p = 0.0137). Significant predictors of HTN included diabetes, chronic kidney disease, coronary artery disease, hyperlipidemia, sleep apnea, obesity, male sex, age, anxiety, vitamin D deficiency, and anemia.
+
+Among US MENA adults that participated in the All of Us research Program, HTN prevalence was lower than estimates reported for the general US adult population, while treatment and BP control were higher. Cardiometabolic conditions were the primary drivers of HTN risk, with additional associations observed for vitamin D deficiency and anemia, highlighting the need for improved inclusion of MENA adults in national health research to inform targeted prevention and management strategies.
+
+
+
+================================================================================
+Case Report: Similar STR profiles in non-twin siblings complicating chimerism analysis after allogeneic hematopoietic stem cell transplantation.
+
+Fanconi anemia (FA) is an inherited bone marrow (BM) failure syndrome for which allogeneic hematopoietic stem cell transplantation (allo-HSCT) remains the only curative option. Short tandem repeat (STR) profiling is the reference molecular method for post-transplant chimerism monitoring, but its analytical performance depends on the presence of informative allelic differences between donor and recipient. We report a 3-year-old boy with FA carrying a homozygous FANCA c.2778 + 1G > A variant who underwent allo-HSCT from a human leukocyte antigen (HLA)-matched non-twin sibling donor. Pre-transplant STR analysis using two independent multiplex systems (PowerPlex® 16 and PowerPlex® ESI 16 Fast) revealed near-complete donor-recipient genetic concordance, with only a single informative autosomal locus (D13S317) available for chimerism tracking. Despite this analytical limitation, the patient achieved neutrophil engraftment on day +13 and platelet engraftment with sustained trilineage recovery through day +1376 (approximately 3.75 years post-transplant). Serial post-transplant STR monitoring demonstrated absence of the recipient-specific allele at D13S317, consistent with full donor-derived hematopoiesis and corroborated by independent assay replication and the clinical engraftment course. To our knowledge, this is among the first reported cases of single-locus STR informativity complicating post-HSCT chimerism analysis in a pediatric FA patient from a consanguineous population. In populations with high consanguinity, this case demonstrates a rare but actionable limitation of standard STR-based chimerism monitoring in non-twin siblings. It underscores the value of pre-transplant verification of donor-recipient STR informativity, predefined escalation to high-resolution alternatives such as digital PCR or next-generation sequencing-based chimerism analysis when fewer than two informative loci are identified, and cautious reporting language when molecular informativity is constrained.
+
+
+
+================================================================================
+Bioactive carbon dots from peony seed meal for nanomedicine via circular economy.
+
+The valorization of agricultural waste into high-value nanomaterials is key to a sustainable circular economy. Here, we transform underutilized peony seed meal into nitrogen/oxygen-doped carbon dots (PSM-CDs) via a simple hydrothermal process. These PSM-CDs exhibit potent superoxide dismutase-mimetic activity, governed by surface carbonyl groups. In a hemolytic anemia model, they act as a dual-pathway therapeutic by scavenging reactive oxygen species and suppressing the NF-κB/NLRP3 axis, while promoting erythropoiesis via ROS-HIF-1 signaling, with excellent biosafety. This work establishes a scalable "waste-to-therapeutics" paradigm, bridging sustainable agriculture and nanomedicine development.
+
+
+

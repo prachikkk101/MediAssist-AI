@@ -1,0 +1,75 @@
+================================================================================
+Association of Tirzepatide versus Glucagon-Like Peptide-1 Receptor Agonists with Incident Glaucoma in Patients with Type 2 Diabetes: A Retrospective Cohort Study.
+
+To assess the comparative risk of glaucoma among patients with type 2 diabetes mellitus (T2DM) treated with tirzepatide versus glucagon-like peptide-1 receptor agonists (GLP-1RAs).
+
+A retrospective cohort study using data from a large, multinational, deidentified database.
+
+Adults aged ≥60 years with T2DM who were newly prescribed tirzepatide or GLP-1RAs during 2022-2024 across 21 countries were included. Individuals with a prior diagnosis of glaucoma, previous use of glaucoma medications, or cross-use of tirzepatide and GLP-1RAs during follow-up were excluded.
+
+Based on medication exposure, participants were divided into the tirzepatide and GLP-1RA groups. The 2 groups were balanced using 1:1 propensity score matching based on age, sex, race, smoking history, glycated hemoglobin, body mass index, prior use of glucose-lowering medications, corticosteroids, and comorbidities.
+
+Incident primary open-angle glaucoma (POAG) across a 2-year follow-up period.
+
+A total of 51 540 participants were included in the final analysis. Tirzepatide, compared to GLP-1RAs, was associated with a lower risk of POAG after 2 years (hazard ratio, 0.65; 95% confidence interval, 0.44-0.96) of follow-up. This association remained consistent across multiple sensitivity analyses, including the exclusion of individuals with early POAG events after the index date, restricting the cohort to patients with ≥1 subsequent prescription during follow-up, an intention-to-treat design, and limiting the analysis exclusively to individuals with an ophthalmology visit.
+
+Tirzepatide was associated with a lower risk of POAG compared to GLP-1RAs; however, further studies are needed to confirm its clinical significance given the limitations of the current study.
+
+The author has no/the authors have no proprietary or commercial interest in any materials discussed in this article.
+
+
+
+================================================================================
+Construction and application of a diagnostic model for tuberculosis in patients with pneumoconiosis.
+
+To develop and validate a machine learning-based model for diagnosing the presence of tuberculosis (TB) in patients with pneumoconiosis, utilizing complex clinical data to support early identification and clinical decision-making.
+
+This retrospective case-control study analyzed the risk of TB among patients with pneumoconiosis using data extracted from electronic medical records. A total of 325 patients with occupational pneumoconiosis who were admitted to Beijing Chest Hospital, Shilong Hospital, and Fuxing Hospital between January 2019 and June 2024 were included. Participants were classified into a case group (pneumoconiosis with TB) and a control group (pneumoconiosis without TB). Diagnostic variables included demographic characteristics, occupational exposure history, medical history, laboratory parameters, etiological indicators, and imaging features. The study outcome was the occurrence of TB. Multivariable regression analysis was performed to identify independent risk factors for concomitant pulmonary TB. Based on the selected variables, eight machine learning models were developed to construct diagnostic algorithms. Model performance was assessed using the area under the receiver operating characteristic curve (AUC), calibration curves, and decision curve analysis. The best-performing model was further interpreted using the Shapley Additive Explanations (SHAP) framework.
+
+Regression analysis identified ten key diagnostic factors associated with TB in pneumoconiosis patients: etiological type, serum albumin, PaO2/FiO2 ratio, HbA1c, calcification, bilateral lung lesions, cavitation, prior antibiotic use, pleural effusion, and duration of dust exposure. These diagnostic factors were further classified into three categories: occupational factors (etiological type, duration of dust exposure), nutritional and metabolic indicators (serum albumin, PaO2/FiO2 ratio, HbA1c), and radiological features (calcification, bilateral lung lesions, cavitation, pleural effusion). Eight machine learning models were developed using these variables. After comprehensive evaluation of discrimination, calibration, clinical utility, and model stability, the random forest (RF) model demonstrated the best overall performance. The RF model achieved an AUC of 0.997 (95% CI: 0.994-1.000) in the training set and 0.905 (95% CI: 0.833-0.977) in the validation set, which outperformed other models.
+
+Patients with pneumoconiosis are at a high risk of developing TB. Machine learning models can effectively aid in identifying TB in this population, with the RF model showing superior diagnostic performance. This approach may facilitate early auxiliary diagnosis and timely clinical intervention.
+
+
+
+================================================================================
+2021 Clinical Practice Guidelines on Periodic Health Examination.
+
+The first Philippine Guidelines on Periodic Health Examination (PHEX) provided evidence-based recommendations for prevention strategies in the Philippines, published in 2004. This 2021 clinical practice guideline (CPG) on PHEX aimed to update the previous PHEX recommendations to align with the implementation of the Universal Health Care Act. This CPG aimed to guide primary care providers, specialists, patients, and the general public and provide recommendations for safe, accessible, and cost-effective screening practices.
+
+We followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach, including the GRADE Adolopment and Evidence-to-Decision framework (EtD). A multisectoral panel developed the recommendations by a formal consensus method upon evaluation of the evidence on benefits and harms, cost-effectiveness, patient values and preferences, acceptability, feasibility, and impact on equity. A conflicts of interest (COI) committee reviewed, evaluated, and managed the potential or declared conflicts of interest of this CPG's Task Force members.
+
+The 2020 PHEX CPG had 23 recommendation statements. Strong recommendations were made to screen for the following conditions 1) Hypertension, 2) Type 2 Diabetes Mellitus using fasting blood sugar, 3) Adult obesity using Body Mass Index (BMI), 4) Unhealthy alcohol use in adults, 5) Tobacco smoking, 6) Colorectal cancer, and 7) Cervical cancer.Weak recommendations were developed to screen for the following: 1) Lipid disorder among adults with cardiovascular risk factors, 2) Type 2 DM using HBA1C, 3) Acute malnutrition in children, 4) Unhealthy alcohol use in adolescents, 5) High-risk sexual behavior, 6) Depression, and 7) Pulmonary Tuberculosis using chest X-ray.On the other hand, strong recommendations were also made AGAINST screening for the following: 1) Developmental delay using developmental screening tools, 2) Coronary artery disease using ECG, and 3) Chronic Kidney Disease (CKD) using serum creatinine.Weak recommendations were also formulated AGAINST screening for the following: 1) Anemia using hemoglobin and/or hematocrit, 2) CKD using urinalysis, and 3) Lung cancer using chest X-ray.
+
+This guideline encourages adherence without restricting clinical judgment or patient-specific considerations. It also informs payers and policymakers without serving as the sole basis for financial or legal decisions. The strong recommendations in this CPG can be used as quality-of-care indicators when evaluating primary care programs. The recommendation statements will be updated at least every three years or as new evidence emerges.
+
+
+
+================================================================================
+Subclinical left ventricular diastolic dysfunction in adults with overweight or obesity and preserved ejection fraction.
+
+Excess adiposity exerts haemodynamic, metabolic, and inflammatory effects on the myocardium that can produce left ventricular diastolic dysfunction (LVDD) before systolic function is impaired. South Asian adults are susceptible at lower body mass index (BMI) thresholds, yet evidence on subclinical LVDD in otherwise healthy adults with overweight or obesity is limited.
+
+Tertiary care hospital-based, cross-sectional study (June 2024-February 2026). 72 adults were enrolled aged 18-65 years with BMI ≥23 kg/m2 (Asian cut-offs) and preserved left ventricular ejection fraction (LVEF) > 50%, with no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction after excluding hypertension, diabetes, coronary, valvular, renal, thyroid, and pulmonary disease, sleep apnoea, smoking, and alcohol use. All underwent 2D transthoracic echocardiography classified per 2016 ASE/EACVI recommendations.
+
+Grade I LVDD was present in 29/72 participants (40.3%); none had grade 2 or grade 3 dysfunction. Affected adults were older (between 51 and 60 years of age) with higher HbA1c (5.52 vs 5.27%), LDL cholesterol (138.2 vs 110.9 mg/dL), and total cholesterol (205.9 vs 173.9 mg/dL). Mean BMI did not differ (27.9 vs 28.9 kg/m2), although BMI ≥25 kg/m2 as a binary indicator was associated with LVDD. E/A (0.76 vs 1.33) and septal e' (0.09 vs 0.11 m/s) were reduced; E/e' trended higher (8.29 vs 7.61). LVEF was preserved (∼64.7%) in both groups. No safety events occurred.
+
+Grade I left ventricular diastolic dysfunction was identified in 40.3% of adults with overweight or obesity and preserved systolic function who had no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction. Older age, higher HbA1c, and adverse lipid profiles were associated with LVDD, whereas BMI as a continuous variable was not. These findings suggest that subclinical diastolic abnormalities may be common in this population and support the need for prospective studies to determine their long-term clinical significance and relationship to future cardiovascular outcomes.
+
+
+
+================================================================================
+Nutritional characterization and postprandial glycemic response of low-calorie date snacks incorporating psyllium and oat fibers in healthy and type 2 diabetes.
+
+The global rise in type 2 diabetes (T2D) and obesity, driven by high-sugar snacks, underscores the need for low-calorie, fiber-enriched alternatives that attenuate postprandial glycemia while maintaining cultural appeal in date-consuming regions.
+
+This study nutritionally characterized low-calorie date-based snacks (LCDBSs) formulated with Sagai/Sukkari date paste (1:1), nuts, and oat or psyllium fibers at 5%, 7.5%, or 10% (OF1-3, PF1-3).
+
+The formulated snacks were organolyptically and nutritionally evaluated as well as postprandial glycemic responses in 20 healthy adults (fasting glucose < 100 mg/dL, BMI average 23.39 kg m- 2) and 20 T2D patients (HbA1c 6.5-9.0%, fasting glucose 126-171 mg/dL) via standardized 100 g portions of sensorily preferred 7.5% variants (OF2, PF2) versus control (CF), measuring capillary glucose at 0, 30, 60, 90, and 120 min was examined.
+
+Proximate composition revealed dose-dependent increases in dietary fiber (12.61-17.55% vs. 7.86% in CF), reductions in available carbohydrates (48.24-52.06% vs. 55.16% in CF), and energy (349.72-368.31 kcal 100 g-1 vs. 384.98 kcal 100 g-1 in CF). Bar incorporated psyllium boosting minerals like K (1203.89 mg 100 g-1 in PF3), Mg (181.06 mg 100 g-1 in PF1), and Fe (3.94 mg 100 g in PF3). Regarding sugar profile, fructose (4.78-6.25% vs. 8.27% in CF), and glucose (4.68-6.09% vs. 8.20% in CF). Across formulations, the snacks retained high phenolic contents and antioxidant activity (TPC 475-598 mg GAE 100 g-1; DPPH-RSA 616-773 μmol TE 100 g-1), exhibited nutritionally balanced amino-acid profiles (essential amino acids 383-441 and non?essential amino acids 509-566 mg 100 g-1; EAA: NEAA ratio 0.68-0.87), and maintained a favorable fatty-acid pattern dominated by oleic and linoleic acids (MUFA 36.82-37.7%, PUFA 23.89-26.36%, with SFA 36.24-39.09%). Both OF2 and PF2 significantly blunted glucose excursions compared with control (p < 0.05), with PF2 superior (lower peaks at 60-120 min in both groups), confirming a low glycemic potential.
+
+These findings position psyllium/oat-enriched LCDBSs as viable, culturally relevant options for glycemic control, weight management, and T2D dietary interventions.
+
+
+

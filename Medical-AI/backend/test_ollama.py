@@ -1,0 +1,7 @@
+from langchain_ollama import ChatOllama
+
+llm = ChatOllama(model="qwen2.5:7b")
+
+response = llm.invoke("Say hello")
+
+print(response.content)

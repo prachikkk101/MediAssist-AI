@@ -1,0 +1,43 @@
+================================================================================
+Heparan Sulfate Proteoglycans in Immunity.
+
+In immune cells, heparin was first identified in mast cells in the 1940s, followed by the discovery of heparan sulfate in lymphocytes and granulocytes during the 1970s and 1980s. Subsequent decades of research have revealed how heparan sulfate and heparin, conjugated to core proteins as heparan sulfate proteoglycans (HSPGs), act as versatile modulators of immune function. It is now known that HSPGs are expressed by virtually all leukocytes and bind hundreds of immune mediators, including cytokines, proteases, growth factors, antimicrobial peptides, and extracellular matrix (ECM) components. HSPGs on leukocyte surfaces and within intracellular granules, as well as those on non-immune cells and within the ECM, shape immune cell development and responses to both endogenous and exogenous threats. Because immune activity must be tightly controlled to prevent collateral tissue damage, HSPGs play critical modulatory roles-facilitating, competing, protecting, presenting, or allosterically regulating immune factors. Consequently, mutations in HSPG core proteins and heparan sulfate biosynthetic enzymes, or dysregulation of HSPG-mediated immune interactions, contribute to diverse pathologies, including primary immunodeficiencies, autoimmune disease, infection, inflammatory tissue injury, allergy, and cancer. This review will highlight key mechanisms through which HSPGs regulate the development and function of major immune cell types.
+
+
+
+================================================================================
+A novel postbiotic from Lacticaseibacillus rhamnosus CRL1505 able to enhance the steady-state myelopoiesis.
+
+The myelopotentiating effect of postbiotics derived from the probiotic Lacticaseibacillus rhamnosus CRL1505, including the peptidoglycan (PG1505), and the cell wall (CW1505), was evaluated in cyclophosphamide (Cy)-immunosuppressed mice. Adult Swiss mice were orally treated with the CRL1505 strain, the PG1505, or the CW1505 for 15 consecutive days. On day 6, both treated groups and untreated control mice received a single intraperitoneal dose of Cy. Cy administration impaired steady-state myelopoiesis. However, the CW1505 and the CRL1505 strain promoted a significant increase in bone marrow (BM) LSK cells (Lin-Sca1+c-kit+), myeloid multipotent precursors (MPP: Lin-Sca-1+c-Kit+CD34+) and mitotic pool cells. Moreover, both the CW1505 and the CRL1505 strain were the only treatments able to reduce the BM cells undergoing apoptosis at five days post-Cy administration. Consequently, CW1505 minimized leukopenia and promoted a faster recovery of BM mature myeloid cells (Ly6G+Gr-1+Ly6C-), as well as blood leukocytes and neutrophils. Additionally, a comparative study with other postbiotics demonstrated that the myelopotentiating properties of the CW1505 are strain-specific.
+
+
+
+================================================================================
+Provision of active ventilation via solar-powered fans to outdoor hutches during summer improves immune responses of dairy heifers.
+
+Despite the preweaning period being critical for immune system development, heat abatement for calves in summer is often overlooked during this early-life period. Herein, we evaluated selected markers of innate and adaptive immunity development in outdoor hutch-housed Holstein dairy heifers with 2 types of ventilation during a Midwestern summer. Heifer calves were housed in outdoor hutches with passive (PASS; 0.07 m/s natural air speed, n = 16) or active ventilation (ACT; 1.1 m/s air speed via solar-powered fans, n = 16) from birth to 28 d of life. At d 28, fans were turned off, and all heifers were naturally ventilated. Heifers were weaned at 49 d and monitored until 56 d of age. Blood samples were collected at various stages of the preweaning period (d 1-56) to assess IgG, glucose, blood hematology, gene expression, and functional assays. At birth, circulating IgG, glucose, and hematology parameters were not different between groups. Relative to heifers exposed to PASS, ACT heifers had reduced white blood cell, monocyte, neutrophil, and lymphocyte counts, particularly the first 28 d. The ACT heifers had a greater percentage of neutrophils with phagocytic activity on d 28 and 42 of life, and tended to have neutrophils with greater percentage of oxidative burst on d 42. The mRNA expression of haptoglobin, IL-6, IL-8, IFN-γ, and NFKβ1 was downregulated in peripheral blood leukocytes of PASS heifers, relative to ACT. Providing active ventilation to heifers during the first 4 wk of life in summer enhances neutrophil phagocytic capacity, reduces circulating neutrophil and lymphocyte counts, and downregulates the expression of key pro-inflammatory cytokine and interleukin genes in peripheral leukocytes.
+
+
+
+================================================================================
+Development of a hemolysis filter system for the selective removal of free hemoglobin, haem and iron from blood envisaged for use in extracorporeal circuits.
+
+Hemolysis, the rupture of red blood cells, releases hemoglobin, haem, and redox-active iron into the bloodstream. When the body's scavenging capacity is overwhelmed, these species can exert deleterious effects, as seen in hemolytic disorders. Hemolysis can also occur in extracorporeal circuits due to mechanical forces acting on blood during circulation. To mitigate these effects, we developed a filter designed for integration into extracorporeal circuits that is designed to capture hemolysis-associated byproducts using immobilised ligands. The filter prototype comprises glyoxal-functionalized agarose beads covalently immobilized with three binding agents: haptoglobin (Hp, binds cell-free hemoglobin [cfHb]), human serum albumin (HSA, binds haem), and desferrioxamine (DFO, binds free iron). Ligand immobilization was optimized to achieve strong covalent attachment to the agarose matrix. Optimized immobilization produced high ligand loading per milliliter of beads (mean ± SD): Hp 74.4 ± 11.7 mg/mL, HSA 84.6 ± 8.2 mg/mL, and DFO 43.3 ± 4.8 mg/mL. In vitro studies showed removal capacities of 12.7 ± 0.2 mg/mL for cfHb, 2708.5 ± 18.5 µg/mL for haem, and 309.7 ± 13.7 µg/mL for iron. The system retained binding activity in plasma and hemolyzed whole blood, and no increase in TAT or D-dimer was detected under the tested ex vivo conditions. These findings demonstrate the potential of this affinity-based filtration system to reduce hemolysis-associated complications in extracorporeal circulation.
+
+
+
+================================================================================
+Obesity Promotes Lung Carcinogenesis Through Airway Immune Dysfunction.
+
+Despite clear links between obesity and dysfunctional anti-tumor immunity, a high Body Mass Index has been associated with decreased lung cancer risk, leading to an "Obesity Paradox".
+
+We sought to clarify this relationship and gain mechanistic insights using both clinical and preclinical modeling.
+
+A case control study of early-stage lung cancer risk was conducted in 1170 high-risk individuals (594 with cancer) stratified by total abdominal fat area (TFA) determined using CT scans. Airway gene expression data from 278 additional patients was analyzed as a function of TFA, and obesity's impact on chemical- and mutation-driven lung carcinogenesis models was examined. Effects on the immune contexture of murine lungs and patient broncho-alveolar lavage (n=109) were profiled using flow cytometry.
+
+Lung cancer was linked to higher TFA in univariate and multivariable models. Gene expression in high-TFA airways suggested suppressed immune activity. Compared to lean controls, the lungs of obese mice displayed abundant potentially suppressive myeloid cells, activated Regulatory T cells, and effector T cell deficits at baseline and during carcinogenesis, which was significantly exacerbated by obesity. Functional assays and depletion studies suggested obesity-enhanced Tregs can potentiate rapid tumor growth, and flow analysis of patients airway leukocytes further suggest compromised lung immune surveillance in patients of high TFA.
+
+Obesity is associated with enhanced lung carcinogenesis. Mechanisms of immune suppression upregulated with excess adiposity, including activated, functional Tregs, are evident in clinical and preclinical systems. These results challenge the concept of an obesity paradox for lung cancer risk.
+
+
+

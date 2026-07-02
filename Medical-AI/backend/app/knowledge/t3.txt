@@ -1,0 +1,71 @@
+================================================================================
+Hemoglobin predicts mortality risk in geriatric patients with dysphagia: a Japanese retrospective cohort study.
+
+Hemoglobin (Hb) is an established prognostic biomarker in several conditions, but its prognostic value in elderly patients with dysphagia is unclear.
+
+To evaluate whether Hb concentration predicts all-cause mortality in Japanese geriatric patients with dysphagia.
+
+We performed a retrospective secondary analysis of a publicly available Japanese cohort (Dryad; n = 253; Jan 2014-Jan 2017). Hemoglobin measured ≤7 days before nutritional support initiation was analyzed as a continuous variable and by tertiles (T1 < 9 g/dL; T2 9-12 g/dL; T3 ≥ 12 g/dL). Cox proportional hazards models estimated associations (Models I-III: unadjusted to fully adjusted). Survival probabilities were assessed by Kaplan-Meier analysis; subgroup interactions were tested.
+
+Median age was 83 years (n = 253; 154 females). In multivariable analysis Hb (per 1 g/dL) was independently associated with lower mortality (adjusted HR = 0.83; 95% CI: 0.76-0.91; p < 0.001). Compared with T1, adjusted HRs were 0.62 (95% CI: 0.41-0.93; p = 0.021) for T2 and 0.36 (95% CI: 0.21-0.60; p < 0.001) for T3. Median survival increased across tertiles (T1:185 days; T2:309 days; T3:405 days; log-rank p < 0.001). No significant subgroup interactions were observed.
+
+Higher hemoglobin concentration was independently associated with lower mortality risk in this Japanese cohort of hospitalized geriatric patients with advanced dysphagia requiring artificial nutrition, supporting routine Hb monitoring to inform nutritional and prognostic care.
+
+
+
+================================================================================
+Transnasal Humidified Rapid-Insufflation Ventilatory Exchange versus Oropharyngeal Airway-Assisted Face-Mask Ventilation for Gastric Insufflation During Induction of General Anesthesia in Patients at High Risk for Obstructive Sleep Apnea.
+
+Obstructive sleep apnea (OSA) is an independent risk factor for gastric insufflation during the induction of general anesthesia. We aimed to compare the impact of oropharyngeal airway-assisted face-mask ventilation and transnasal humidified rapid-insufflation ventilatory exchange (THRIVE) on gastric insufflation in patients with high-risk OSA.
+
+Patients at high risk for OSA scheduled for elective major abdominal surgery under general anesthesia were randomized 1:1 to either Group T (THRIVE throughout induction) or Group M (face-mask preoxygenation followed by oropharyngeal airway-assisted pressure-controlled ventilation). Gastric antrum ultrasonography was performed at baseline (T1), after preoxygenation (T2), and post-intubation (T4) to assess changes of antral cross-sectional area (CSAa). Arterial blood gases were analyzed at T1, T2, after induction during ventilation/apnea (T3), and T4. Adverse events and patient comfort were recorded. The primary outcome was the incidence of gastric insufflation at T4. Secondary outcomes included CSAa percentage change, oxygenation and arterial blood gas variables, adverse events, and patient comfort.
+
+Of 100 randomized patients, 94 completed the study (47 per group). Group T demonstrated a significantly lower incidence of gastric insufflation post-intubation compared to Group M (23.4% vs 44.7%; P = 0.030) and a smaller median percentage increase in antral cross-sectional area (7.62% vs 13.24%; P = 0.070). THRIVE provided superior preoxygenation (higher PaO2 at T2, P < 0.001). During apnea (T3-T4), Group T maintained adequate oxygenation (SpO2 >92%) without mechanical ventilation but developed mild hypercapnia, which was expected to improve following continued mechanical ventilation after intubation. Adverse event rates were non-significant (P = 1.000). Patient comfort scores were significantly higher in Group T (P < 0.001).
+
+In patients at high risk for OSA, THRIVE reduces the incidence of gastric insufflation during induction compared with oropharyngeal airway-assisted face-mask ventilation. THRIVE improves preoxygenation and patient comfort. Oxygenation was maintained during apnea, with a transient increase in PaCO2 observed after intubation.
+
+
+
+================================================================================
+Frequency and Impact of Thyroid Hormone Abnormalities in COVID-19: An Observational Study at the Peak of the Pandemic.
+
+COVID-19, caused by SARS-CoV-2, affects multiple organ systems, including the thyroid gland. Non-Thyroidal Illness Syndrome (NTIS) is frequently observed in severe systemic disease. NTIS-like thyroid hormone alterations have previously been reported in COVID-19. However, the relationship between these changes and disease outcomes remains unclear.
+
+We aimed to evaluate thyroid function and vitamin D concentrations in hospitalized COVID-19 patients, and to analyze the association between hormonal measurements and patient characteristics with COVID-19 mortality.
+
+We conducted a retrospective database search of 846 adult patients hospitalized in a dedicated COVID-19 hospital at the peak of the pandemic. Based on the availability of serum levels of TSH, FT3, FT4, and vitamin D, 137 patients were included in the analysis. Descriptive statistics, comparative analyses, and logistic regression were used to evaluate the associations of laboratory measurements, sex, and age with COVID-19 mortality.
+
+Decreased thyroid hormone and vitamin D concentrations were more common than in the general population, although none differed between deceased and COVID-19 survivors. Among the cohort, 63.5% had decreased TSH, 21.2% had decreased FT3, 24.1% had decreased FT4, and 75.9% presented with vitamin D deficiency. Comparative analyses showed no significant differences in TSH (P = .82), FT3 (P = .40), FT4 (P = .81), or vitamin D (P = .78) levels between deceased and surviving patients. Deceased patients were older than survivors (median [IQR]: 75.5 [71.0-80.8] vs 71.0 [61.0-77.0] years; P = .002), with age emerging as the only predictor of mortality (OR = 1.07, 95%CI: 1.02-1.11; P = .001; all other variables P > .33).
+
+NTIS-like thyroid hormone alterations and vitamin D deficiency are highly prevalent among hospitalized COVID-19 patients but do not predict in-hospital mortality. Age remains the major risk factor for death in this population. Our findings confirm that COVID-19 frequently affects the endocrine system and highlight the need for further research on long-term thyroid outcomes.
+
+Thyroid Hormone and Vitamin D Changes in COVID-19 and Their Impact on Disease Mortality COVID-19 most often affects the lungs, but it can also impact other organs, including the thyroid gland. In severe illness, patients often develop changes in thyroid hormone levels, a condition called Non-Thyroidal Illness Syndrome (NTIS). Hormonal changes have been observed in COVID-19 before, but their impact on disease severity is not well understood. In our study, we analyzed data from a hospital that treated only COVID-19 patients at the peak of the pandemic. We reviewed 846 patient records for measurements of thyroid hormones (TSH, FT3, FT4) and vitamin D at the time of admission. After applying inclusion and exclusion criteria, a total of 137 patients were included in the analysis. We compared their hormone levels, sex, and age against normal ranges and examined their relationship with COVID-19 outcomes. We have found that thyroid hormone changes and vitamin D deficiency were more common than in general population. About 64% of patients had low TSH, 21% had low FT3, 24% had low FT4, and 76% had low vitamin D levels. However, these hormone levels did not differ between patients who survived and those who died in the hospital. The main factor predicting death was age: older patients were more likely to die from COVID-19. Overall, our study highlights that COVID-19 frequently affects the endocrine system. Thyroid hormones and vitamin D levels are often decreased in COVID-19, even in patients without prior thyroid problems. However, these changes do not appear to influence disease outcome, with age remaining the strongest predictor of mortality. Future research should explore whether these changes persist after recovery and if they contribute to long-term complications. Understanding these effects could help improve care for patients recovering from COVID-19.
+
+
+
+================================================================================
+MRI-based perfusion-diffusion habitat analysis for characterizing intratumoral heterogeneity in rectal adenocarcinoma.
+
+This study aimed to evaluate whether MRI-based perfusion-diffusion habitat imaging derived from dynamic contrast-enhanced (DCE) and diffusion-weighted imaging (DWI) can characterize intratumoral heterogeneity and evaluate associations with pathologic stage, synchronous distant metastasis, and exploratory survival outcomes in rectal adenocarcinoma.
+
+This retrospective study included 73 patients with pathologically confirmed rectal adenocarcinoma who underwent preoperative DCE-MRI and DWI scans. The volume transfer constant (Ktrans) and apparent diffusion coefficient (ADC) maps were generated from DCE and DWI data, respectively. After manual tumor segmentation and image co-registration, voxel-wise Ktrans and ADC values were clustered using a k-means algorithm to identify distinct spatial habitats. Quantitative metrics extracted from each habitat were compared across pathologic subgroups and entered into multivariable logistic regression models for T staging and association with synchronous distant metastasis.
+
+Three reproducible habitats were identified: Habitat 1, hyper-vasopermeability; Habitat 2, hypo-vasopermeability with hypo-cellularity; and Habitat 3, hypo-vasopermeability with hyper-cellularity. Compared with T1-2 tumors, T3-4 lesions showed significantly higher mean Ktrans and the extracellular-extravascular volume fraction (Ve) in Habitats 1 and 2 and lower mean ADC in Habitats 2 and 3. Multiple perfusion metrics from Habitat 1 significantly correlated with distant metastasis. The optimized logistic regression models achieved AUCs of 0.81 for T staging and 0.78 for distant metastasis prediction.
+
+Combined DCE-MRI and DWI habitat imaging enables voxel-level assessment of intratumoral heterogeneity in rectal cancer and may provide a noninvasive imaging biomarker for preoperative T staging and assessment of tumor heterogeneity and systemic disease-associated imaging features.
+
+
+
+================================================================================
+Transforming oncology nursing navigation: impact of online training on holistic care and therapeutic relationship skills.
+
+Oncology nurse navigators play a critical role in addressing patients' physical, emotional, social, and spiritual needs. However, gaps in existing training programmes often limit the effective integration of holistic care principles and therapeutic relationship skills into clinical practice. Online education offers potential flexibility and scalability, yet evidence regarding its effectiveness for developing these competencies remains limited.
+
+This study employed a quasi-experimental design comprising two sequential phases of online training aimed at bridging theoretical foundations and practical application in oncology nursing navigation. Healthcare professionals across Taiwan participated in Phase One, which consisted of online dialogic seminars focusing on foundational concepts of holistic care. Phase Two involved situation-based simulations and structured reflective discussions to strengthen applied skills. Holistic care competence and therapeutic relationship skills were assessed at baseline (T1), mid-training (T2), and post-training (T3) using validated self-report instruments. Data were analysed using paired t-tests and repeated measures ANOVA.
+
+A total of 337 healthcare professionals completed Phase One, of whom 34 oncology nursing professionals met eligibility criteria and participated in Phase Two. Statistically significant improvements were observed in holistic care competence, with paired t-tests indicating significant gains from T1 to T2 across all dimensions (t = - 9.65 to - 13.00, all p < .001). In Phase Two (n = 34), repeated-measures ANOVA confirmed significant improvement in holistic care competence across T1, T2, and T3 (F(1.50, 49.47) = 14.83, p < .001, η2p = .310, Greenhouse-Geisser corrected). Therapeutic relationship skills also improved significantly (F(1.35, 44.56) = 12.18, p < .001, η2p = .270), with the majority of improvement occurring from T1 to T2 (d = 0.59, p = .002). Effect sizes from T1 to T3 ranged from medium to large across holistic care dimensions (Cohen's d = 0.81-1.07).
+
+The findings suggest that an interactive online training programme incorporating scenario-based learning and reflective discussion was associated with enhanced holistic care competence and therapeutic relationship skills among oncology nursing professionals. Baseline therapeutic relationship skills predicted learning gains across all holistic care dimensions, indicating that relational competence may function as a foundational infrastructure for holistic care learning; accordingly, positioning relational skills training as an early component of oncology nursing curricula may optimise learning outcomes across all dimensions of holistic care. While the results are context-specific, this approach demonstrates potential as a feasible and scalable model for advancing professional education in oncology and palliative care settings.
+
+
+

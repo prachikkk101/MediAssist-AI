@@ -1,0 +1,75 @@
+================================================================================
+Quantitative Analysis of Choroidal Thickness and Blood Flow in Thyroid-Associated Ophthalmopathy Using Ultra-Widefield Swept-Source OCT Angiography.
+
+To quantitatively analyze choroidal thickness and blood flow in thyroid-associated ophthalmopathy (TAO) using ultra-widefield swept-source OCT angiography (UWF SS-OCTA), and to characterize differences among dysthyroid optic neuropathy (DON), non-DON, and normal eyes.
+
+Retrospective cross-sectional study.
+
+The study included 65 eyes from 35 TAO patients (15 males, 20 females; mean age 51.8 ± 12.6 years), comprising 5 mild, 40 moderate-to-severe, and 20 DON eyes. A control group of 70 eyes from 38 age- and sex-matched healthy subjects (15 males, 23 females; mean age 52.8 ± 14.9 years) was also included.
+
+Ultra-widefield SS-OCTA imaging was performed to capture data sets divided into 9 subfields. Automated segmentation was used to measure structural thickness (whole choroid, large-vessel choroidal layer) and vascular density (choriocapillaris, large-vessel choroidal layer). Parameters were compared between TAO and control eyes, and subgroup analyses were conducted between DON and non-DON eyes.
+
+Choroidal thickness and vascular density in the whole choroid, choriocapillaris, and large-vessel choroidal layer across 9 subfields.
+
+Thyroid-associated ophthalmopathy eyes showed significantly greater whole choroidal thickness (189.9 ± 2.6 μm vs. 182.4 ± 2.3 μm, P < 0.001) and large-vessel choroidal layer thickness (161.4 ± 2.7 μm vs. 149.9 ± 2.3 μm, P < 0.0001) compared with controls, particularly in central and nasal regions. Vascular density was reduced in TAO eyes for the large-vessel choroidal layer (39.86 ± 0.25% vs. 40.54 ± 0.15%, P = 0.014) and showed a nonsignificant decrease in the choriocapillaris (47.57 ± 3.24% vs. 47.89 ± 0.12%, P = 0.067). Subgroup analysis revealed that these differences were primarily driven by DON eyes, whereas non-DON TAO eyes showed no significant changes compared with controls.
+
+Ultra-widefield SS-OCTA effectively identifies choroidal changes in TAO, revealing increased thickness accompanied by reduced vascular density. These findings suggest that choroidal thickening is primarily due to stromal edema rather than vascular engorgement, particularly in DON eyes, highlighting the role of choroidal remodeling in TAO progression.
+
+Proprietary or commercial disclosure may be found in the Footnotes and Disclosures at the end of this article.
+
+
+
+================================================================================
+Philippine Clinical Practice Guidelines for Periodic Health Examination: Screening for Prenatal Disorders.
+
+The Philippine Guidelines on Periodic Health Examination (PHEX) support the Universal Health Care Act by providing guidance on quality, accessible, and affordable screening services for Filipinos. Conditions that develop in the prenatal period are a major cause of neonatal deaths in the Philippines and account for 14% of deaths in children under five.
+
+This guideline aims to provide evidence-based recommendations for screening prenatal disorders among asymptomatic, pregnant Filipino women. It also aims to equip general practitioners, obstetricsgynecology specialists, allied health professionals, patients, policymakers, regulatory agencies, and healthcare institutions with tools and guidance that facilitate informed, evidence-based healthcare decisions for pregnant women.
+
+The development of this CPG followed the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach to CPG development recommended in the Department of Health (DOH) Manual. Recommendations were finalized using the Evidence-to-Decision (EtD) framework. Evidence Review Experts conducted a systematic literature search and critically appraised recent local and international clinical guidelines. When necessary, they conducted de novo systematic reviews. Information on the benefits and harms of screening, cost-effectiveness, patient values and preferences, acceptability, feasibility, and its impact on equity was obtained. A multisectoral consensus panel reviewed the evidence and developed recommendations. A user-friendly web application and engagement with stakeholders for promotion and implementation were among the dissemination strategies. Experts conducted an external review to provide feedback on the methodology and recommendations.
+
+Eleven recommendations for different screening strategies to improve the health outcomes of pregnant women and neonates were developed. This CPG contains recommendations for the screening for maternal thyroid disease, gestational diabetes mellitus, group B Streptococcus infection, fetal aneuploidy, risk for preeclampsia, iron deficiency anemia, and undernutrition, and conducting cervical length measurements, first-trimester ultrasound, and second-trimester ultrasound.
+
+This CPG provides 11 evidence-based recommendations. Applicability in the local setting was carefully considered through the involvement of different stakeholders. The recommendations herein shall hold until new evidence on screening, diagnosing, or managing various risk factors and diseases emerges, or contingencies dictate updating this CPG. This guideline will be updated after three (3) years.
+
+
+
+================================================================================
+Autoinfarction of the Parathyroid Gland: An Unusual Presentation of Primary Hyperparathyroidism.
+
+Primary hyperparathyroidism (PHPT) is commonly caused by a parathyroid adenoma and typically presents with hypercalcemia and elevated parathyroid hormone (PTH) levels. Spontaneous infarction of parathyroid adenoma is a rare phenomenon that can lead to spontaneous resolution of hypercalcemia.
+
+We report the case of a 48-year-old male with a history of PHPT diagnosed 7 years prior and was lost to follow up, who presented with left-sided facial and finger paresthesia. Initial labs revealed low ionized calcium with a normal PTH level. Imaging identified a heterogeneous mass adjacent to the left thyroid lobe. Biopsy confirmed infarcted parathyroid adenoma. The patient's prior PHPT had spontaneously resolved, but he now presented with symptomatic hypocalcemia likely due to adenoma infarction.
+
+Spontaneous infarction of a parathyroid adenoma is an uncommon cause of remission in PHPT. While transient remission of hypercalcemia has been documented, long-term outcomes remain variable. Our case is unusual as the patient presented with symptomatic hypocalcemia years after initial diagnosis.
+
+Autoinfarction of parathyroid adenomas can result in spontaneous remission of PHPT but may also lead to unexpected complications such as hypocalcemia. Ongoing follow-up is essential to monitor both recurrence of hypercalcemia and the development of hypocalcemia.
+
+
+
+================================================================================
+Subclinical left ventricular diastolic dysfunction in adults with overweight or obesity and preserved ejection fraction.
+
+Excess adiposity exerts haemodynamic, metabolic, and inflammatory effects on the myocardium that can produce left ventricular diastolic dysfunction (LVDD) before systolic function is impaired. South Asian adults are susceptible at lower body mass index (BMI) thresholds, yet evidence on subclinical LVDD in otherwise healthy adults with overweight or obesity is limited.
+
+Tertiary care hospital-based, cross-sectional study (June 2024-February 2026). 72 adults were enrolled aged 18-65 years with BMI ≥23 kg/m2 (Asian cut-offs) and preserved left ventricular ejection fraction (LVEF) > 50%, with no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction after excluding hypertension, diabetes, coronary, valvular, renal, thyroid, and pulmonary disease, sleep apnoea, smoking, and alcohol use. All underwent 2D transthoracic echocardiography classified per 2016 ASE/EACVI recommendations.
+
+Grade I LVDD was present in 29/72 participants (40.3%); none had grade 2 or grade 3 dysfunction. Affected adults were older (between 51 and 60 years of age) with higher HbA1c (5.52 vs 5.27%), LDL cholesterol (138.2 vs 110.9 mg/dL), and total cholesterol (205.9 vs 173.9 mg/dL). Mean BMI did not differ (27.9 vs 28.9 kg/m2), although BMI ≥25 kg/m2 as a binary indicator was associated with LVDD. E/A (0.76 vs 1.33) and septal e' (0.09 vs 0.11 m/s) were reduced; E/e' trended higher (8.29 vs 7.61). LVEF was preserved (∼64.7%) in both groups. No safety events occurred.
+
+Grade I left ventricular diastolic dysfunction was identified in 40.3% of adults with overweight or obesity and preserved systolic function who had no previously diagnosed cardiovascular disease or other established causes of diastolic dysfunction. Older age, higher HbA1c, and adverse lipid profiles were associated with LVDD, whereas BMI as a continuous variable was not. These findings suggest that subclinical diastolic abnormalities may be common in this population and support the need for prospective studies to determine their long-term clinical significance and relationship to future cardiovascular outcomes.
+
+
+
+================================================================================
+The patient journey of adolescents and young adults with thyroid cancer: A social media listening study in China.
+
+This study aimed to explore the experiences of Chinese adolescent and young adult (AYA) patients living with thyroid cancer through a social media listening approach.
+
+Posts related to the lived experience of thyroid cancer were collected from Sina Weibo using Python and cleaned manually. A total of 4431 eligible posts were categorized according to phases of the thyroid cancer journey. Latent Dirichlet Allocation was applied to identify distinct topics to map the patient journey and describe their lived experiences.
+
+Twenty-four topics were identified and categorized into various challenges and related factors, reflecting the evolving experiences of AYA patients with thyroid cancer throughout their cancer journey. The main challenges included decision-making regarding treatment, managing long-term treatment-related life adjustments, and returning to normal life. The impact of patients' social networks on their lived experiences was highlighted. Patients sought both professional medical information and experiential information, as well as emotional support, to address these challenges. By revealing the dynamic nature of patients' experiences, this study identified several opportunities for improving health services. These findings emphasize the unique challenges and emotional experiences that AYA patients face at various stages of their cancer journey and highlight the need for tailored support from all members of their social networks.
+
+Social media data can provide insights into patients' cancer journey and support the development of tailored health services and care improvement. Tailored support should be provided based on patients' specific information and emotional needs at different stages of the cancer journey, as well as considering the impact of social networks.
+
+
+
