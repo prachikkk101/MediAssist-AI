@@ -1,19 +1,38 @@
 # MediAssist AI — Intelligent Clinical Document Analyzer & Multi-Agent Diagnostic Assistant
 
-[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00?style=flat&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph)
-[![Ollama](https://img.shields.io/badge/Ollama-Qwen2.5%203B-black?style=flat&logo=ollama&logoColor=white)](https://ollama.com)
-[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-blueviolet?style=flat)](https://www.trychroma.com/)
-[![React](https://img.shields.io/badge/React-19-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-Bundler-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://medi-assist-ai-iota.vercel.app/)
+[![Demo Video](https://img.shields.io/badge/Demo%20Video-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15PAobyOPn5d9pZIT-cyxY-CmTRDA7hiQ/view?usp=drivesdk)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
+[![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-FF6F00?style=for-the-badge&logo=langchain&logoColor=white)](https://github.com/langchain-ai/langgraph)
+[![Ollama](https://img.shields.io/badge/Ollama-Qwen2.5%203B-black?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com)
+[![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector%20Store-blueviolet?style=for-the-badge)](https://www.trychroma.com/)
+[![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://react.dev)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
 
 MediAssist AI is an end-to-end, privacy-preserving clinical document analysis and medical question-answering system. Powered by **LangGraph multi-agent orchestration**, **grounded Retrieval-Augmented Generation (RAG)**, **Ollama local language models (`qwen2.5:3b`)**, and an adaptive **OCR/PDF ingestion pipeline**, MediAssist AI turns complex medical reports, blood tests, and lab scans into structured, patient-friendly explanations, executive summaries, nutrition/lifestyle guidance, and longitudinal comparisons — all governed by clinical safety guardrails.
 
 ---
 
+## 🔗 Quick Links & Live Demos
+
+| Resource | Link | Description |
+| :--- | :--- | :--- |
+| 🚀 **Deployed Web App** | [**medi-assist-ai-iota.vercel.app**](https://medi-assist-ai-iota.vercel.app/) | Live production frontend deployed on Vercel |
+| 🎥 **Walkthrough Video Demo** | [**Watch Full Demo on Google Drive**](https://drive.google.com/file/d/15PAobyOPn5d9pZIT-cyxY-CmTRDA7hiQ/view?usp=drivesdk) | End-to-end demonstration video of document upload & AI diagnosis |
+| 💻 **Source Code Repository** | [**github.com/prachikkk101/MediAssist-AI**](https://github.com/prachikkk101/MediAssist-AI) | Complete frontend and backend repository |
+
+> [!NOTE]
+> ### 🔒 Hybrid Architecture: Why the Backend Runs Locally
+> **MediAssist AI enforces a local-first privacy standard.** Patient health documents, lab values, and clinical diagnostics contain sensitive Personal Health Information (PHI). To guarantee absolute data confidentiality, zero cloud API fees, and full offline usability:
+> - **Frontend**: Deployed globally on [Vercel](https://medi-assist-ai-iota.vercel.app/) for accessible UI interaction across desktop and mobile.
+> - **Backend & AI Compute**: Runs on your local machine using **Ollama (`qwen2.5:3b`)** for agentic clinical reasoning and **HuggingFace (`BAAI/bge-small-en-v1.5`)** embeddings for ChromaDB vector retrieval.
+> - **Interconnection**: When using the deployed Vercel frontend with your local backend, you can expose your local server securely via an encrypted tunnel (e.g. Cloudflare Tunnels or ngrok) by setting `VITE_API_URL`, or run both frontend and backend locally!
+
+---
+
 ## 📑 Table of Contents
 
+- [Quick Links & Live Demos](#-quick-links--live-demos)
 - [Key Features](#-key-features)
 - [Complete Flow Architecture](#-complete-flow-architecture)
   - [1. High-Level System Architecture](#1-high-level-system-architecture)
@@ -31,6 +50,7 @@ MediAssist AI is an end-to-end, privacy-preserving clinical document analysis an
   - [3. Backend Setup](#3-backend-setup)
   - [4. Vector Database Build](#4-vector-database-build)
   - [5. Frontend Setup](#5-frontend-setup)
+- [Connecting Vercel Frontend to Local Backend](#-connecting-vercel-frontend-to-local-backend)
 - [API Reference](#-api-reference)
 - [Clinical Safety & Anti-Hallucination Guardrails](#-clinical-safety--anti-hallucination-guardrails)
 - [Medical Disclaimer](#-medical-disclaimer)
@@ -57,11 +77,11 @@ MediAssist AI is an end-to-end, privacy-preserving clinical document analysis an
 ```mermaid
 flowchart TD
     subgraph Client ["Frontend (React 19 + Vite + TypeScript)"]
-        UI["Web UI\n(Dashboard, Upload, Chat)"]
+        UI["Web UI (Dashboard, Upload, Chat)\nDeployed on Vercel: medi-assist-ai-iota.vercel.app"]
         PollClient["Polling Service\n(api.ts)"]
     end
 
-    subgraph Backend ["FastAPI Application Server"]
+    subgraph Backend ["FastAPI Application Server (Local / Self-Hosted)"]
         Router["API Router (/medical)"]
         JobStore["In-Memory Job Store & Worker Queue"]
         IngestionEngine["Ingestion Engine\n(PDF Reader / Adaptive OCR)"]
@@ -79,7 +99,7 @@ flowchart TD
     end
 
     subgraph DataStore ["Local AI & Knowledge Store"]
-        OllamaLLM["Ollama Engine\n(qwen2.5:3b)"]
+        OllamaLLM["Ollama Engine\n(qwen2.5:3b / qwen2.5vl:7b)"]
         ChromaStore[("ChromaDB Vector Store\nbge-small-en-v1.5")]
         KnowledgeFiles["Medical Reference Corpus\n(/knowledge/*.txt)"]
     end
@@ -309,15 +329,16 @@ MediAssist-AI/
 
 ## 🛠 Technology Stack
 
-### Backend
+### Backend & AI Models
 - **Framework**: [FastAPI](https://fastapi.tiangolo.com/) (ASGI, async background tasks, thread pool execution)
 - **Agent Orchestration**: [LangGraph](https://github.com/langchain-ai/langgraph) & [LangChain Core](https://python.langchain.com/)
-- **Local Inference**: [Ollama](https://ollama.com/) running `qwen2.5:3b` (primary) and optional `qwen2.5vl:7b` (vision)
+- **Local Inference LLM**: [Ollama](https://ollama.com/) running `qwen2.5:3b` (primary reasoning) & `qwen2.5vl:7b` (vision)
+- **Embedding Model**: `BAAI/bge-small-en-v1.5` (via [HuggingFace](https://huggingface.co/) / [SentenceTransformers](https://sbert.net/))
 - **Vector Database**: [ChromaDB](https://www.trychroma.com/)
-- **Embedding Model**: `BAAI/bge-small-en-v1.5` via [SentenceTransformers](https://sbert.net/)
 - **Document Processing**: Tesseract OCR, OpenCV (`opencv-python`), Pillow (`PIL`), PyPDF2
 
 ### Frontend
+- **Deployment Platform**: [Vercel](https://vercel.com) ([medi-assist-ai-iota.vercel.app](https://medi-assist-ai-iota.vercel.app/))
 - **Framework**: [React 19](https://react.dev) with [TypeScript](https://www.typescriptlang.org)
 - **Tooling**: [Vite](https://vitejs.dev)
 - **HTTP Client**: [Axios](https://axios-http.com/)
@@ -418,7 +439,7 @@ python -m app.rag.build_vector_db
 
 ---
 
-### 5. Frontend Setup
+### 5. Frontend Setup (Local)
 
 1. Open a second terminal and navigate to the frontend directory:
    ```bash
@@ -441,6 +462,26 @@ python -m app.rag.build_vector_db
    npm run dev
    ```
    Open your browser at `http://localhost:5173`.
+
+---
+
+## 🌐 Connecting Vercel Frontend to Local Backend
+
+If you want to use the live deployed frontend at [**medi-assist-ai-iota.vercel.app**](https://medi-assist-ai-iota.vercel.app/) with your local backend:
+
+1. Expose your local FastAPI server (`http://localhost:8000`) securely using any tunneling service:
+   ```bash
+   # Using Cloudflare Tunnel
+   cloudflared tunnel --url http://localhost:8000
+
+   # Or using ngrok
+   ngrok http 8000
+   ```
+2. In your Vercel project settings, set the environment variable:
+   ```env
+   VITE_API_URL=https://<your-tunnel-subdomain>.trycloudflare.com
+   ```
+3. Redeploy or access the live portal directly.
 
 ---
 
