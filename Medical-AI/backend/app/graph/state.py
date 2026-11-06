@@ -1,18 +1,27 @@
-from typing import TypedDict
 
-class MedicalState(TypedDict):
+from typing import TypedDict, Any
+
+
+class MedicalState(TypedDict, total=False):
+    # Input
+    file_path: str
     report_text: str
-
-    parsed_report: str
-
+    previous_report: str
     question: str
-    context: str
 
+    # Parsed report and retrieved knowledge
+    parsed_report: dict[str, Any]
+    context: str
+    parser_status: str
+
+    # Agent outputs
     answer: str
     summary: str
-
-
-
-    nutrition:str
+    nutrition: str
     history: str
+
+    # Routing and safety
     route: str
+    safe_answer: str
+    safety_status: str
+    analysis: str

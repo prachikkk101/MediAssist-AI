@@ -1,11 +1,12 @@
-import json
+﻿import json
 import re
 
 from langchain_ollama import ChatOllama
 
 llm = ChatOllama(
-    model="qwen2.5:7b",
-    temperature=0
+    model="qwen2.5:3b",
+    temperature=0,
+    num_ctx=4096,
 )
 
 
@@ -64,7 +65,7 @@ Medical Report:
     match = re.search(r"\{.*\}", content, re.DOTALL)
 
     if not match:
-        print("❌ No JSON found.")
+        print("[WARN] No JSON found.")
         return {}
 
     try:

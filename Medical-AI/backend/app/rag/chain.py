@@ -1,12 +1,13 @@
-from langchain_core.prompts import ChatPromptTemplate
+﻿from langchain_core.prompts import ChatPromptTemplate
 from langchain_ollama import ChatOllama
 
 from app.rag.retriever import get_retriever
 
 
 llm = ChatOllama(
-    model="qwen2.5:7b",
+    model="qwen2.5:3b",
     temperature=0,
+    num_ctx=4096,
 )
 
 

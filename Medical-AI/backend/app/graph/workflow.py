@@ -2,7 +2,6 @@ from langgraph.graph import StateGraph, END
 from langgraph.checkpoint.memory import MemorySaver
 
 from app.graph.state import MedicalState
-
 from app.agents.supervisor_agent import supervisor_agent
 from app.agents.parser_agent import parser_agent
 from app.agents.rag_agent import rag_agent
@@ -10,18 +9,10 @@ from app.agents.explanation_agent import explanation_agent
 from app.agents.summary_agent import summary_agent
 from app.agents.nutrition_agent import nutrition_agent
 from app.agents.history_agent import history_agent
+from app.agents.safety_agent import safety_agent
 
-
-# ---------------------------------------------------
-# Create Graph
-# ---------------------------------------------------
 
 graph = StateGraph(MedicalState)
-
-
-# ---------------------------------------------------
-# Nodes
-# ---------------------------------------------------
 
 graph.add_node("Supervisor", supervisor_agent)
 graph.add_node("Parser", parser_agent)
@@ -30,60 +21,40 @@ graph.add_node("Explain", explanation_agent)
 graph.add_node("Summary", summary_agent)
 graph.add_node("Nutrition", nutrition_agent)
 graph.add_node("History", history_agent)
-
-
-# ---------------------------------------------------
-# Entry
-# ---------------------------------------------------
+graph.add_node("Safety", safety_agent)
 
 graph.set_entry_point("Supervisor")
 
+KNOWN_ROUTES = {"explanation", "summary", "nutrition", "history", "full_analysis"}
 
-# ---------------------------------------------------
-# Supervisor Routing
-# ---------------------------------------------------
 
-def route(state):
-    return state["route"]
+def supervisor_route(state):
+    route = state.get("route")
+    return route if route in KNOWN_ROUTES else "explanation"
 
 
 graph.add_conditional_edges(
     "Supervisor",
-    route,
+    supervisor_route,
     {
         "explanation": "Parser",
+        "summary": "Parser",
         "nutrition": "Parser",
         "history": "Parser",
-        "summary": "Summary",
+        "full_analysis": "Parser",   # used by /medical/upload
     },
 )
 
+graph.add_edge("Parser", "Retriever")
 
-# ---------------------------------------------------
-# Parser always goes to Retriever
-# ---------------------------------------------------
-
-graph.add_edge(
-    "Parser",
-    "Retriever"
-)
-
-
-# ---------------------------------------------------
-# Retriever Routing
-# ---------------------------------------------------
 
 def retriever_route(state):
-
-    route = state["route"]
-
+    route = state.get("route")
     if route == "nutrition":
         return "nutrition"
-
-    elif route == "history":
+    if route == "history":
         return "history"
-
-    return "explanation"
+    return "explanation"   # explanation, summary, full_analysis
 
 
 graph.add_conditional_edges(
@@ -96,48 +67,23 @@ graph.add_conditional_edges(
     },
 )
 
+graph.add_edge("Explain", "Summary")
 
-# ---------------------------------------------------
-# Explanation Path
-# ---------------------------------------------------
 
-graph.add_edge(
-    "Explain",
-    "Summary"
-)
+def after_summary(state):
+    # Full report analysis also produces the nutrition tab.
+    return "nutrition" if state.get("route") == "full_analysis" else "safety"
 
-graph.add_edge(
+
+graph.add_conditional_edges(
     "Summary",
-    END
+    after_summary,
+    {"nutrition": "Nutrition", "safety": "Safety"},
 )
 
-
-# ---------------------------------------------------
-# Nutrition Path
-# ---------------------------------------------------
-
-graph.add_edge(
-    "Nutrition",
-    END
-)
-
-
-# ---------------------------------------------------
-# History Path
-# ---------------------------------------------------
-
-graph.add_edge(
-    "History",
-    END
-)
-
-
-# ---------------------------------------------------
-# Compile
-# ---------------------------------------------------
+graph.add_edge("Nutrition", "Safety")
+graph.add_edge("History", "Safety")
+graph.add_edge("Safety", END)
 
 memory = MemorySaver()
-
-workflow = graph.compile(
-    checkpointer=memory
-)
+workflow = graph.compile(checkpointer=memory)
